@@ -1,0 +1,1 @@
+Companion package for the WSBIM1207 course
