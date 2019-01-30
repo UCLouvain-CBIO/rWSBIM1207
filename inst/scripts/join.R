@@ -1,6 +1,7 @@
 library("pRoloc")
 library("pRolocdata")
 library("tibble")
+set.seed(123)
 
 data("hyperLOPIT2015")
 
@@ -20,6 +21,8 @@ x <- as_tibble(x)
 
 jdf1 <- x[, c("uniprot", "organelle", "entry")]
 jdf2 <- x[, c("gene_name", "description", "uniprot", "organism")]
+jdf2 <- jdf2[sample(nrow(jdf2)), ]
+
 
 ## set key manually
 jdf3 <- jdf2
