@@ -35,8 +35,13 @@ jdf5 <- jdf2[8:12, ]
 ## duplicated keys
 jdf6 <- jdf1[c(1, 2, 2, 3, 4), ]
 jdf6$organelle[2:3] <- c("Endoplasmic reticulum", "Golgi apparatus")
-jdf7 <- jdf2[c(1:4, 4), ]
-jdf7$isoform <- c(NA, NA, NA, 1, 2)
+jdf6$isoform <- c(1, 1, 2, 1, 1)
+
+i <- which(jdf2$uniprot == "Q99PL5")
+j <- which(jdf2$uniprot != "Q99PL5")[1:3]
+jdf7 <- jdf2[c(i, i, j), ]
+jdf7$isoform_num  <- c(1, 2, rep(1, 3))
+jdf7$measure <- c(102, 3, 13, 54, 28)
 
 save(jdf1, jdf2, jdf3, jdf4, jdf5, jdf6, jdf7,
      file = "~/dev/rWSBIM1207/data/jdf.rda")
