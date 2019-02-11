@@ -14,6 +14,7 @@
 #' - data 2: the second data, ...
 #'
 #' @importFrom utils packageVersion
+#' @import dplyr
 #' @docType package
 #' @md
 #' @name rWSBIM1207
