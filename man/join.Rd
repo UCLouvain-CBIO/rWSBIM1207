@@ -36,6 +36,7 @@ data("jdf")
 
 \examples{
 data(jdf)
+library("dplyr")
 dplyr::full_join(jdf1, jdf2)
 dplyr::left_join(jdf6, jdf7)
 }
