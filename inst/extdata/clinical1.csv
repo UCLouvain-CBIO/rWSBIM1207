@@ -1,0 +1,517 @@
+"patientID","tumor_tissue_site","gender","age_at_diagnosis","vital_status","days_to_death","days_to_last_followup","pathologic_stage","pathology_T_stage","pathology_N_stage","pathology_M_stage","smoking_history","number_pack_years_smoked","year_of_tobacco_smoking_onset","stopped_smoking_year"
+"TCGA-05-4249","lung","male",24532,0,NA,1523,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",52,NA,NA
+"TCGA-05-4382","lung","male",24868,0,NA,607,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",62,NA,NA
+"TCGA-05-4384","lung","male",24411,0,NA,426,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",20,1963,1987
+"TCGA-05-4389","lung","male",25660,0,NA,1369,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",43,NA,NA
+"TCGA-05-4390","lung","female",21430,0,NA,1126,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",15,1966,1996
+"TCGA-05-4395","lung","male",27971,1,0,NA,"stage iiib","t4","n2","m0","current reformed smoker for > 15 years",NA,NA,1983
+"TCGA-05-4396","lung","male",28094,1,303,NA,"stage iiib","t4","n1","m0","current reformed smoker for > 15 years",19,1947,1984
+"TCGA-05-4398","lung","female",17471,0,NA,1431,"stage iiib","t4","n3","m0","current smoker",72,NA,NA
+"TCGA-05-4402","lung","female",20819,1,244,NA,"stage iv","t2","nx","m1","lifelong non-smoker",NA,NA,NA
+"TCGA-05-4403","lung","male",27881,0,NA,578,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,NA,1975
+"TCGA-05-4405","lung","female",27241,0,NA,610,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",65,1951,1994
+"TCGA-05-4410","lung","male",22888,0,NA,0,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",98,1958,2007
+"TCGA-05-4415","lung","male",20880,1,91,NA,"stage iiib","t4","n2","m0","current reformed smoker for < or = 15 years",29,1997,2007
+"TCGA-05-4417","lung","female",18780,0,NA,455,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",56,1971,2008
+"TCGA-05-4418","lung","male",25417,1,274,NA,"stage iiia","t3","n2","m0","current smoker",25,NA,NA
+"TCGA-05-4420","lung","male",15159,0,NA,912,"stage ib","t2","n0","m0","current smoker",38,NA,NA
+"TCGA-05-4422","lung","male",24837,0,NA,365,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",147,NA,NA
+"TCGA-05-4424","lung","male",25689,0,NA,913,"stage iib","t3","n0","m0","current reformed smoker for < or = 15 years",50,1957,2007
+"TCGA-05-4425","lung","female",25902,0,NA,669,"stage iv","t2","n0","m1","current reformed smoker for > 15 years",28,NA,NA
+"TCGA-05-4426","lung","male",26084,0,NA,791,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",20,NA,NA
+"TCGA-05-4430","lung","female",21884,0,NA,761,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",80,NA,NA
+"TCGA-05-4432","lung","male",24350,0,NA,761,"stage iib","t2","n1","m0","current smoker",58,NA,NA
+"TCGA-05-4433","lung","male",30194,0,NA,730,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",1,1946,1948
+"TCGA-05-5420","lung","male",24472,0,NA,457,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",40,1961,2001
+"TCGA-05-5423","lung","male",23863,0,NA,151,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",72,1956,1980
+"TCGA-05-5428","lung","male",21061,0,NA,670,"stage iia","t1b","n1","m0","current reformed smoker for > 15 years",30,1969,1993
+"TCGA-05-5429","lung","male",22066,1,275,NA,"stage iiia","t3","n2","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-05-5715","lung","female",25383,0,NA,62,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-35-3615","lung","male",21076,0,NA,14,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-38-4626","lung","female",20903,0,NA,3674,NA,"t2b","n0","m0","current smoker",40,1962,NA
+"TCGA-38-4627","lung","female",23510,1,1147,NA,"stage iia","t1b","n1","m0","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-38-4628","lung","female",24057,1,1492,NA,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-38-4631","lung","female",26538,1,354,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",40,NA,NA
+"TCGA-38-4632","lung","male",15418,1,1357,NA,"stage iv","t2","n1","m1","current reformed smoker for < or = 15 years",10,NA,1991
+"TCGA-38-6178","lung","female",25593,0,NA,448,"stage iiia","t2b","n2",NA,"lifelong non-smoker",NA,NA,NA
+"TCGA-44-2655","lung","female",23854,0,NA,1324,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",30,1958,1988
+"TCGA-44-2656","lung","male",21766,0,NA,1429,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",23,1994,2009
+"TCGA-44-2657","lung","female",27298,0,NA,1351,"stage ib","t2","nx","m0","current reformed smoker for < or = 15 years",25,1959,2006
+"TCGA-44-2659","lung","female",23808,0,NA,1367,"stage iib","t1","n1","m0","current reformed smoker for < or = 15 years",57,1965,2003
+"TCGA-44-2661","lung","female",25313,0,NA,1159,"stage ia","t1","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-44-2662","lung","male",24014,0,NA,1280,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",56,1956,1984
+"TCGA-44-2665","lung","female",20349,0,NA,1301,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-44-2666","lung","male",15970,1,97,NA,"stage ib","t2","n0","m0","current smoker",30,1979,NA
+"TCGA-44-3396","lung","female",27073,0,NA,1130,"stage iiia","t2","n2","m0","current smoker",50,1959,NA
+"TCGA-44-3919","lung","female",26081,1,1026,NA,"stage ia","t1","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-44-4112","lung","female",22106,1,808,NA,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",30,1972,1992
+"TCGA-44-5645","lung","female",22471,0,NA,852,"stage ia","t1","nx",NA,"current reformed smoker for > 15 years",5,1963,1973
+"TCGA-44-6145","lung","female",22745,0,NA,595,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",75,1963,1999
+"TCGA-44-6146","lung","male",23378,0,NA,728,"stage iib","t3","n0","m0","current reformed smoker for > 15 years",15,NA,1980
+"TCGA-44-6147","lung","female",24631,0,NA,845,"stage ia","t1b","nx","m0","current reformed smoker for > 15 years",NA,1976,1980
+"TCGA-44-6774","lung","female",20462,0,NA,658,"stage iiia","t1","n2","m0","current smoker",20,1971,NA
+"TCGA-44-6775","lung","female",26415,0,NA,705,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",25,1955,2005
+"TCGA-44-6776","lung","female",22150,0,NA,2616,"stage ia","t1","n0","mx","current reformed smoker for < or = 15 years",45,1960,2005
+"TCGA-44-6777","lung","female",31234,1,987,NA,"stage ib","t2","nx","mx","current reformed smoker for < or = 15 years",64,1942,2006
+"TCGA-44-6779","lung","female",18469,1,500,NA,"stage iib","t2","n1","mx","current reformed smoker for < or = 15 years",15,1978,2008
+"TCGA-44-7659","lung","male",25730,0,NA,691,"stage ia","t1b","n0","mx","current smoker",40,1989,NA
+"TCGA-44-7662","lung","male",22543,0,NA,218,"stage ib","t2a","n0","mx","current smoker",50,1961,NA
+"TCGA-44-7670","lung","female",17392,0,NA,882,"stage iia","t1b","n1","m0","current smoker",30,1980,NA
+"TCGA-44-7671","lung","male",23538,0,NA,889,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",NA,NA,1995
+"TCGA-44-7672","lung","female",19200,0,NA,719,"stage ia","t1b","n0","m0","current smoker",20,1980,NA
+"TCGA-49-4486","lung","male",26415,1,2318,NA,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",17.5,1932,1967
+"TCGA-49-4487","lung","female",26583,1,855,NA,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",40,NA,NA
+"TCGA-49-4488","lung","female",27332,1,869,NA,"stage ia","t1","n0","mx","current reformed smoker for > 15 years",NA,NA,1964
+"TCGA-49-4490","lung","female",16634,1,385,NA,"stage iiia","t3","n2","m0","current reformed smoker for > 15 years",5,NA,NA
+"TCGA-49-4494","lung","male",28387,1,1081,NA,"stage iiia","t3","n2","m0","current reformed smoker for > 15 years",50,1930,1955
+"TCGA-49-4501","lung","female",24817,1,1421,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-49-4505","lung","female",22628,1,428,NA,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",74,1949,1986
+"TCGA-49-4506","lung","female",25132,1,999,NA,"stage iib","t2","n1","m0","current smoker",100,NA,NA
+"TCGA-49-4507","lung","female",26851,1,268,NA,"stage iiia","t3","n1","m0","current reformed smoker for < or = 15 years",78,NA,1991
+"TCGA-49-4510","lung","female",18762,1,896,NA,"stage iib","t2","n1","m0","current smoker",55.5,NA,NA
+"TCGA-49-4512","lung","female",25502,1,905,NA,"stage iiia","t2","n2","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-49-4514","lung","female",28908,0,NA,1700,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",65,NA,NA
+"TCGA-49-6742","lung","male",25839,1,488,NA,"stage iia","t2a","n1","m0","current reformed smoker for > 15 years",10,NA,NA
+"TCGA-49-6744","lung","female",23484,0,NA,1683,"stage iia","t2a","n1","mx","current reformed smoker for < or = 15 years",20,NA,NA
+"TCGA-49-6745","lung","male",30133,0,NA,522,"stage iiia","t2a","n2","m0","current reformed smoker for < or = 15 years",20,NA,NA
+"TCGA-49-6761","lung","female",24849,0,NA,354,"stage iiia","t1","n2","mx","current reformed smoker for < or = 15 years",50,NA,NA
+"TCGA-49-6767","lung","female",17108,0,NA,677,"stage iib","t3","n0","mx","current smoker",30,NA,NA
+"TCGA-50-5044","lung","female",26567,1,624,NA,"stage iiib","t4","n1","m0",NA,NA,NA,NA
+"TCGA-50-5049","lung","male",25577,0,NA,3094,"stage ia","t2","n0","m0",NA,NA,NA,NA
+"TCGA-50-5051","lung","female",15585,1,478,NA,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",30,NA,2006
+"TCGA-50-5055","lung","female",28988,1,1830,NA,"stage iia","t1","n1","m0",NA,NA,NA,NA
+"TCGA-50-5068","lung","female",21728,1,1499,NA,"stage iib","t2","n1","mx",NA,NA,NA,NA
+"TCGA-50-5072","lung","male",27036,1,250,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",15,NA,1974
+"TCGA-50-5931","lung","female",27733,1,434,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",40,NA,NA
+"TCGA-50-5932","lung","male",27454,1,1235,NA,"stage iib","t2","n1","m0",NA,NA,NA,NA
+"TCGA-50-5933","lung","male",26377,1,2393,NA,"stage iiib","t4","n2","m0",NA,NA,NA,NA
+"TCGA-50-5935","lung","female",31610,1,653,NA,"stage ia","t1","n0","m0",NA,NA,NA,NA
+"TCGA-50-5936","lung","male",21238,1,257,NA,"stage iiia","t2","n2","m0",NA,NA,NA,NA
+"TCGA-50-5939","lung","male",31236,1,460,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",15,NA,1968
+"TCGA-50-5941","lung","female",20350,0,NA,1474,"stage iiia","t2a","n2","m0","current smoker",25,NA,NA
+"TCGA-50-5942","lung","female",24781,0,NA,1847,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",30,NA,2009
+"TCGA-50-5944","lung","female",25440,0,NA,1750,"stage ia","t1","n0","m0",NA,NA,NA,NA
+"TCGA-50-6593","lung","female",18152,1,336,NA,"stage iiia","t1","n2","m0","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-50-6595","lung","female",27197,1,189,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",NA,NA,1979
+"TCGA-50-6597","lung","female",29195,1,1268,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-50-6673","lung","female",30689,1,22,NA,"stage i","t1","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-50-7109","lung","male",21979,1,308,NA,"stage ia","t1","n0","m0","current smoker",120,NA,NA
+"TCGA-53-7626","lung","female",28024,1,929,NA,"stage iia","t1","n1","m0","current reformed smoker for < or = 15 years",35,1971,2006
+"TCGA-53-7813","lung","female",18875,0,NA,424,"stage iiib","t4","n0","m0","current reformed smoker for < or = 15 years",35,1973,2008
+"TCGA-55-1592","lung","male",NA,1,701,NA,"stage ia","t2","n0","m0","current reformed smoker for < or = 15 years",NA,1957,1997
+"TCGA-55-1594","lung","male",25008,0,NA,1178,"stage iiia","t2","n2","m0","current smoker",NA,1965,NA
+"TCGA-55-1596","lung","male",20381,0,NA,2065,"stage iib","t2","n1","m0","current smoker",50,1979,NA
+"TCGA-55-6543","lung","female",NA,0,NA,435,"stage ia","t1b","n0","mx","current reformed smoker for < or = 15 years",60,NA,2004
+"TCGA-55-6642","lung","male",23107,0,NA,2449,"stage ib","t2","n0","mx","current smoker",NA,1961,NA
+"TCGA-55-6712","lung","male",NA,1,171,NA,"stage iia","t2a","n1","mx","current reformed smoker for < or = 15 years",NA,1970,2003
+"TCGA-55-6970","lung","female",24773,1,464,NA,"stage iiia","t2","n2","mx","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-55-6971","lung","female",21734,0,NA,1400,"stage ib","t2","n0","mx","current reformed smoker for < or = 15 years",60,1970,2010
+"TCGA-55-6972","lung","male",26625,1,1632,NA,"stage ib","t2","n0","m0","current smoker",NA,NA,NA
+"TCGA-55-6978","lung","male",NA,1,176,NA,"stage iia","t2b","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-6979","lung","female",21780,1,237,NA,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-55-6980","lung","male",NA,0,NA,2109,"stage ia","t1","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-6981","lung","female",19497,1,1379,NA,"stage iiia","t1","n2","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-55-6982","lung","female",NA,1,995,NA,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-6983","lung","male",NA,0,NA,2823,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",60,NA,NA
+"TCGA-55-6985","lung","female",21381,0,NA,1233,"stage ib","t2","n0","mx","current reformed smoker for < or = 15 years",50,NA,2004
+"TCGA-55-6986","lung","female",NA,0,NA,3261,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-7281","lung","female",25870,0,NA,872,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",20,NA,NA
+"TCGA-55-7283","lung","female",27946,0,NA,609,"stage iiia","t3","n2","mx","current reformed smoker for > 15 years",5,1950,1961
+"TCGA-55-7573","lung","female",26302,0,NA,487,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",NA,NA,1983
+"TCGA-55-7574","lung","female",23703,1,995,NA,"stage ib","t2a","n0","m0","current reformed smoker for < or = 15 years",2,1971,2011
+"TCGA-55-7576","lung","male",19917,0,NA,670,"stage ib","t2a","n0","m0","current smoker",NA,1972,NA
+"TCGA-55-7724","lung","female",27891,0,NA,705,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",50,1958,2008
+"TCGA-55-7725","lung","female",24848,0,NA,442,"stage ia","t1a","n0","mx","current reformed smoker for > 15 years",16,1963,1994
+"TCGA-55-7726","lung","female",26451,0,NA,652,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",30,1955,1979
+"TCGA-55-7727","lung","male",25929,0,NA,119,"stage iiia","t1a","n2","mx","current smoker",NA,NA,NA
+"TCGA-55-7728","lung","female",23505,0,NA,704,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",30,1980,1996
+"TCGA-55-7815","lung","male",28119,0,NA,773,"stage ib","t2a","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-7903","lung","male",23509,0,NA,567,"stage ia","t1b","n0","mx","current smoker",40,NA,NA
+"TCGA-55-7907","lung","male",28201,1,343,NA,"stage iia","t2a","n1","mx","current reformed smoker for > 15 years",80,1954,1994
+"TCGA-55-7911","lung","female",25746,0,NA,537,"stage ia","t1a","n0","mx","current reformed smoker for > 15 years",96,1959,1981
+"TCGA-55-7914","lung","female",26105,1,187,NA,"stage iia","t1b","n1","mx","current smoker",5,1990,NA
+"TCGA-64-1676","lung","male",21428,0,NA,1728,"stage ia","t1a","n0","m0","current smoker",60,NA,NA
+"TCGA-64-1677","lung","female",28482,1,628,NA,"stage iiia","t2","n2","m0","current smoker",50,1955,NA
+"TCGA-64-1678","lung","female",25931,0,NA,1189,NA,"t2b","n0","m0","current reformed smoker for > 15 years",20,1970,1990
+"TCGA-64-1679","lung","female",21310,0,NA,2488,"stage iiia","t1","n2","m0","current smoker",40,NA,NA
+"TCGA-64-1680","lung","male",23267,0,NA,1126,"stage iv","t2a","n2","m1","current reformed smoker for > 15 years",50,1962,1982
+"TCGA-64-1681","lung","female",22525,1,1167,NA,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",NA,1968,1988
+"TCGA-64-5774","lung","male",22059,0,NA,2676,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",45,1959,2004
+"TCGA-64-5775","lung","male",26058,1,62,NA,"stage iiia","t4","n0","m0","current smoker",110,1950,NA
+"TCGA-64-5778","lung","male",21927,0,NA,1305,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",68,1966,2000
+"TCGA-64-5781","lung","female",20219,0,NA,1559,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",25,1982,2007
+"TCGA-67-3771","lung","female",28406,0,NA,610,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-67-3772","lung","female",29989,0,NA,573,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-67-3773","lung","female",30706,0,NA,427,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-67-3774","lung","female",26704,0,NA,385,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-67-6215","lung","female",19310,0,NA,174,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-67-6216","lung","female",20967,0,NA,141,"stage ia","t1a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-67-6217","lung","female",26920,0,NA,422,"stage iia","t2a","n1","m0","current reformed smoker for > 15 years",NA,NA,1965
+"TCGA-69-7760","lung","male",26777,0,NA,202,"stage iib","t3","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-69-7761","lung","male",31041,0,NA,186,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",20,1955,1975
+"TCGA-69-7763","lung","male",25316,0,NA,690,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",7.5,1959,2004
+"TCGA-69-7764","lung","male",27693,0,NA,414,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",30,1977,1991
+"TCGA-69-7765","lung","male",20625,0,NA,165,NA,"t4","n0","mx","current reformed smoker for < or = 15 years",NA,1981,2011
+"TCGA-69-7980","lung","female",25583,0,NA,411,"stage i","t1b","n0","m0","current reformed smoker for < or = 15 years",80,NA,2001
+"TCGA-71-6725","lung","female",17793,0,NA,256,"stage ib","t2","n0","m0","current smoker",NA,NA,NA
+"TCGA-73-4658","lung","female",29508,1,1600,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",25,NA,NA
+"TCGA-73-4659","lung","male",24253,1,711,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",12,1974,1986
+"TCGA-73-4662","lung","female",23762,0,NA,2515,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",10,1955,1972
+"TCGA-73-4675","lung","male",21614,1,922,NA,"stage iiia","t3","n1","m0","current reformed smoker for < or = 15 years",41,1969,2010
+"TCGA-73-4676","lung","male",16746,1,281,NA,"stage iia","t2a","n1","m0","current reformed smoker for < or = 15 years",48,1977,2009
+"TCGA-73-7498","lung","female",21527,0,NA,1189,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",28,1969,1997
+"TCGA-73-7499","lung","female",29683,1,1531,NA,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-5122","lung","male",NA,1,NA,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",20,NA,1985
+"TCGA-75-5126","lung","female",NA,0,NA,NA,"stage iiia","t3","n2","m0","current reformed smoker for < or = 15 years",40,NA,2007
+"TCGA-75-5146","lung","male",NA,0,NA,2368,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,NA,1987
+"TCGA-75-5147","lung","female",NA,0,NA,1333,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-6203","lung","female",NA,0,NA,NA,"stage iiia","t2","n2","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-6205","lung","female",NA,1,NA,NA,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-6207","lung","male",NA,1,NA,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",10,NA,1972
+"TCGA-75-6211","lung","female",NA,1,NA,NA,"stage ib","t2","n0","m0","current smoker",34,NA,NA
+"TCGA-75-6212","lung","female",NA,1,1516,NA,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-6214","lung","female",NA,1,1115,NA,"stage iiia","t2","n2","m0","current smoker",40,1970,NA
+"TCGA-75-7025","lung","male",NA,0,NA,3305,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,1967,1986
+"TCGA-75-7027","lung","male",NA,0,NA,3059,"stage ib","t2","n0","m0","current smoker",50,1956,NA
+"TCGA-75-7030","lung","male",NA,0,NA,NA,"stage iib","t3","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-75-7031","lung","female",NA,0,NA,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",5,1965,1975
+"TCGA-78-7143","lung","female",22673,1,4961,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-78-7145","lung","female",19080,1,826,NA,"stage iv","t4","n1","m1","current reformed smoker for < or = 15 years",25,1973,1998
+"TCGA-78-7147","lung","female",24809,1,586,NA,"stage iib","t2","n1","m0","current smoker",50,1950,NA
+"TCGA-78-7148","lung","male",25990,1,626,NA,"stage iib","t2","n1","m0","current smoker",57,1944,NA
+"TCGA-78-7149","lung","male",26285,0,NA,3940,"stage iiib","t4","n0","m0","current smoker",115,1950,NA
+"TCGA-78-7150","lung","male",21891,1,666,NA,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",37,1963,2000
+"TCGA-78-7152","lung","male",23782,1,1215,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",40,1959,1999
+"TCGA-78-7153","lung","female",23922,0,NA,3635,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",20,1948,1988
+"TCGA-78-7154","lung","male",26481,1,593,NA,"stage iiia","t3","n2","m0","current reformed smoker for < or = 15 years",112.5,1948,1993
+"TCGA-78-7155","lung","male",24863,1,1171,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",48,1957,2005
+"TCGA-78-7156","lung","male",22720,1,976,NA,"stage iv","t4","n1","m1","current reformed smoker for > 15 years",84,1961,1989
+"TCGA-78-7158","lung","female",21742,1,179,NA,"stage iiib","t4","n2","m0","current reformed smoker for < or = 15 years",14,1963,2005
+"TCGA-78-7159","lung","female",22261,0,NA,1974,"stage ia","t1","nx","m0","current reformed smoker for < or = 15 years",21,1965,2007
+"TCGA-78-7160","lung","male",22385,1,697,NA,"stage iv","t4","n2","m1","current reformed smoker for < or = 15 years",43.8,1963,1998
+"TCGA-78-7161","lung","female",25294,1,291,NA,"stage iib","t3","n0","m0","current reformed smoker for < or = 15 years",27.8,1961,1998
+"TCGA-78-7162","lung","male",27593,1,3169,NA,"stage ia","t1","n0","m0","current smoker",12,1940,NA
+"TCGA-78-7163","lung","male",22002,0,NA,7248,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",41,1950,1991
+"TCGA-78-7166","lung","male",30869,1,258,NA,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",38,1934,1972
+"TCGA-78-7167","lung","male",28295,1,2681,NA,"stage iv","t2","n0","m1","current smoker",64,1937,NA
+"TCGA-78-7535","lung","male",16571,1,949,NA,"stage ib","t2","n0","m0","current smoker",35,1972,NA
+"TCGA-78-7536","lung","male",25558,1,244,NA,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",44,1949,1993
+"TCGA-78-7537","lung","male",26610,1,1622,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",20,1944,1984
+"TCGA-78-7539","lung","female",27445,0,NA,791,"stage iia","t2b","n0","m0","current reformed smoker for > 15 years",2.2,1953,1981
+"TCGA-78-7540","lung","female",24440,1,1197,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-78-7542","lung","male",20763,1,321,NA,"stage ib","t2","n0","m0","current smoker",60,1952,NA
+"TCGA-78-7633","lung","male",24713,1,1528,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",94,1955,2002
+"TCGA-80-5607","lung","female",NA,0,NA,NA,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",15,1965,1985
+"TCGA-80-5608","lung","female",NA,0,NA,2832,"stage ia","t1","n0","m0","current smoker",26,1972,NA
+"TCGA-86-6562","lung","male",19301,1,376,NA,"stage iia","t2a","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-6851","lung","female",26808,0,NA,179,"stage iia","t1b","n1","m0","current smoker",52,1959,NA
+"TCGA-86-7713","lung","male",25791,0,NA,1157,"stage iia","t2b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-7714","lung","female",22619,1,625,NA,"stage iiia","t1b","n2","m0","current smoker",43,1968,NA
+"TCGA-91-6828","lung","male",25870,0,NA,323,"stage ia","t1a","n0","m0","current reformed smoker for > 15 years",NA,NA,1993
+"TCGA-91-6829","lung","male",28841,1,1258,NA,"stage ib","t2","n0","mx","current reformed smoker for < or = 15 years",94.5,1940,2003
+"TCGA-91-6835","lung","female",29887,0,NA,79,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",25,NA,1976
+"TCGA-91-6840","lung","female",21854,0,NA,372,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",50,1971,1996
+"TCGA-91-6847","lung","female",22862,0,NA,842,"stage ib","t2","n0","mx","current reformed smoker for > 15 years",NA,NA,1967
+"TCGA-91-6849","lung","female",27676,0,NA,35,"stage iiia","t2","n2","mx","current reformed smoker for > 15 years",30,1946,1976
+"TCGA-91-7771","lung","male",22926,0,NA,492,"stage iib","t3","n0","mx","current reformed smoker for < or = 15 years",75,NA,2011
+"TCGA-93-7347","lung","female",27949,0,NA,683,"stage ia","t1a","n0","mx","current reformed smoker for > 15 years",11,1952,1967
+"TCGA-93-7348","lung","female",27456,0,NA,531,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",42,1957,1999
+"TCGA-95-7039","lung","female",19981,0,NA,1272,"stage iib","t3","n0","mx","current smoker",34,NA,NA
+"TCGA-95-7043","lung","female",23165,1,503,NA,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",40,1964,2003
+"TCGA-95-7567","lung","male",22437,0,NA,568,"stage iib","t2b","n1","m0","current reformed smoker for < or = 15 years",NA,1970,2011
+"TCGA-95-7947","lung","male",24752,0,NA,477,"stage ia","t1a","n0","m0","current reformed smoker for < or = 15 years",100,1956,2006
+"TCGA-95-7948","lung","female",15363,0,NA,476,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",0.15,1993,1995
+"TCGA-97-7546","lung","female",27913,0,NA,1285,"stage ia","t1","n0","mx","current reformed smoker for > 15 years",25,1963,1983
+"TCGA-97-7552","lung","male",25578,0,NA,1932,"stage ib","t2","n0","mx","current reformed smoker for > 15 years",40,NA,1985
+"TCGA-97-7553","lung","female",21518,0,NA,1870,"stage ia","t1","n0","mx","current smoker",20,1967,NA
+"TCGA-97-7554","lung","female",30327,0,NA,775,"stage iiia","t2a","n2","m0","current reformed smoker for > 15 years",30,1945,1983
+"TCGA-97-7937","lung","male",23919,0,NA,564,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",35,NA,1994
+"TCGA-97-7938","lung","female",27980,1,18,NA,"stage ia","t1a","n0","mx","current reformed smoker for > 15 years",40,NA,1996
+"TCGA-97-7941","lung","female",26298,0,NA,484,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",22.5,1960,1985
+"TCGA-99-7458","lung","female",27359,0,NA,747,"stage iiia","t4","n0","m0","current reformed smoker for < or = 15 years",52,1958,2010
+"TCGA-05-4244","lung","male",25752,0,NA,0,"stage iv","t2","n2","m1","current reformed smoker for < or = 15 years",38,NA,NA
+"TCGA-49-AARE","lung","female",18893,1,1229,NA,"stage ia","t1","n0","mx","current reformed smoker for < or = 15 years",15,1980,1995
+"TCGA-05-4250","lung","female",29068,1,121,NA,"stage iiia","t3","n1","m0","current reformed smoker for < or = 15 years",47,NA,NA
+"TCGA-49-AARO","lung","female",14527,0,NA,3759,"stage ia","t1a","n0","mx","current smoker",NA,NA,NA
+"TCGA-49-AARQ","lung","female",15065,0,NA,6732,"stage i","t2","n0","mx","current reformed smoker for < or = 15 years",60,NA,2007
+"TCGA-49-AARR","lung","male",24942,0,NA,4992,"stage ia","t1","n0","mx","current reformed smoker for > 15 years",NA,NA,1987
+"TCGA-4B-A93V","lung","female",19035,1,300,NA,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",30,1984,2013
+"TCGA-55-A493","lung","female",20027,0,NA,28,"stage ib","t2a","n0","m0","current smoker",53,1977,NA
+"TCGA-50-5045","lung","female",20961,1,2174,NA,NA,"t2","n1","m0",NA,NA,NA,NA
+"TCGA-05-4397","lung","male",23833,1,731,NA,"stage iib","t2","n1","m0","current smoker",45,NA,NA
+"TCGA-55-A4DG","lung","male",26044,0,NA,608,"stage ia","t1b","n0","mx","current reformed smoker for < or = 15 years",100,NA,2012
+"TCGA-55-A57B","lung","female",29452,0,NA,546,"stage ia","t1b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-50-5066","lung","male",26385,0,NA,1442,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-62-8395","lung","female",29311,0,NA,1216,"stage iib","t3","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-62-8397","lung","female",25728,0,NA,1289,"stage iib","t3","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-50-5930","lung","male",17238,1,282,NA,"stage iiia","t2","n2","m0",NA,NA,NA,NA
+"TCGA-62-8399","lung","male",22952,0,NA,2696,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",70,NA,NA
+"TCGA-62-8402","lung","female",26934,1,1498,NA,"stage iiia","t2","n2","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-62-A46O","lung","female",24050,1,1454,NA,"stage ib","t2","n0","m0","current smoker",48,NA,NA
+"TCGA-62-A46P","lung","male",23993,1,594,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",40,NA,NA
+"TCGA-62-A46R","lung","female",20063,1,1725,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",25,NA,NA
+"TCGA-62-A46S","lung","male",26825,1,1653,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",40,NA,NA
+"TCGA-62-A46U","lung","female",25998,0,NA,2067,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-05-4427","lung","female",23893,0,NA,791,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",8,1993,2008
+"TCGA-62-A46Y","lung","female",25905,1,414,NA,"stage iiia","t2","n2","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-50-5946","lung","male",22852,0,NA,1617,"stage ia","t1","n0","mx","current reformed smoker for < or = 15 years",NA,NA,2009
+"TCGA-50-6590","lung","female",26444,1,1288,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",50,NA,2002
+"TCGA-05-4434","lung","female",24472,1,457,NA,"stage iv","t4","n1","m1","current smoker",15,NA,NA
+"TCGA-50-6592","lung","female",26191,1,777,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-86-8280","lung","female",19977,0,NA,701,"stage iia","t2b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-05-5425","lung","male",25020,0,NA,882,"stage iib","t2b","n1","m0","current reformed smoker for > 15 years",40,1965,1985
+"TCGA-86-8358","lung","male",16409,0,NA,653,"stage ib","t2a","n0","m0","current smoker",20,1992,NA
+"TCGA-86-8359","lung","male",19088,1,444,NA,"stage iiia","t3","n2","m0","current smoker",36,1982,NA
+"TCGA-86-8585","lung","male",20918,0,NA,353,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-8668","lung","female",22383,0,NA,423,"stage ia","t1b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-35-4122","lung","male",25491,0,NA,225,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",45,1965,2010
+"TCGA-35-4123","lung","male",14064,0,NA,182,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",20,1990,2010
+"TCGA-35-5375","lung","male",22628,0,NA,264,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",35,1971,2006
+"TCGA-38-4625","lung","female",24241,0,NA,2973,"stage ib","t2a","n0","m0","current smoker",50,1952,NA
+"TCGA-64-5815","lung","male",27280,0,NA,866,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",30,NA,1985
+"TCGA-67-3770","lung","female",25658,0,NA,610,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-53-A4EZ","lung","male",23201,0,NA,1071,"stage iia","t2a","n1","mx","current reformed smoker for > 15 years",40,1956,1996
+"TCGA-38-4629","lung","male",25104,1,864,NA,"stage iib","t3","n0","m0","current reformed smoker for < or = 15 years",100,NA,2003
+"TCGA-38-4630","lung","female",27667,1,1073,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-1595","lung","female",NA,0,NA,1479,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",NA,1964,1993
+"TCGA-55-5899","lung","male",NA,0,NA,930,NA,"t1a","n1","m0","current smoker",NA,1985,NA
+"TCGA-38-7271","lung","female",26440,1,800,NA,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",25,1971,1999
+"TCGA-38-A44F","lung","male",29534,0,NA,133,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",12,1965,1977
+"TCGA-44-8119","lung","male",27003,0,NA,285,"stage iib","t3","n0","m0","current smoker",50,1961,NA
+"TCGA-55-6968","lung","male",22344,1,1293,NA,"stage iv","t1","n0","m1","current smoker",NA,NA,NA
+"TCGA-55-6969","lung","male",19270,0,NA,1239,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",NA,NA,2004
+"TCGA-44-A47A","lung","female",28782,0,NA,466,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",80,1970,2010
+"TCGA-91-6848","lung","male",21829,0,NA,224,"stage iiia","t2","n2","mx","current reformed smoker for < or = 15 years",NA,NA,2007
+"TCGA-69-7974","lung","female",20021,0,NA,184,"stage iiia","t2a","n2","mx","current reformed smoker for < or = 15 years",30,1981,2011
+"TCGA-69-7978","lung","male",21785,0,NA,134,"stage iib","t2b","n1","mx","current smoker",80,NA,NA
+"TCGA-44-2668","lung","male",18856,1,761,NA,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",60,1979,2009
+"TCGA-91-A4BC","lung","male",21565,0,NA,44,"stage iia","t2b","n0","mx","current reformed smoker for < or = 15 years",30,1976,2001
+"TCGA-44-3398","lung","female",28392,0,NA,1163,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",60,1959,2009
+"TCGA-44-3918","lung","female",22236,0,NA,1036,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",20,1974,1994
+"TCGA-69-8453","lung","male",28413,0,NA,813,"stage iib","t3","n0","mx","current reformed smoker for > 15 years",12,NA,1974
+"TCGA-69-A59K","lung","female",22093,0,NA,591,"stage iib","t3","n0","m0","current reformed smoker for < or = 15 years",25,1999,2012
+"TCGA-44-5643","lung","male",19426,0,NA,1013,"stage iiia","t2b","n2","m0","current smoker",20,NA,NA
+"TCGA-44-5644","lung","female",18644,0,NA,863,"stage ib","t2a","n0",NA,"current smoker",17.5,1975,NA
+"TCGA-93-A4JQ","lung","male",17951,0,NA,526,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",NA,1973,1993
+"TCGA-44-6144","lung","male",21283,0,NA,723,"stage ia","t1a","n0","m0","current smoker",67.5,1968,NA
+"TCGA-55-7284","lung","male",27087,1,243,NA,"stage iib","t3","n0","mx","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-55-7570","lung","male",22218,0,NA,824,"stage ia","t1a","n0","mx","current smoker",NA,1971,NA
+"TCGA-73-4668","lung","female",24255,0,NA,467,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",55,1968,2005
+"TCGA-44-6148","lung","male",22138,0,NA,704,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",60,1963,1994
+"TCGA-55-8512","lung","male",15266,1,607,NA,"stage iv","t1a","n1","m1b","current smoker",19,1989,NA
+"TCGA-55-8513","lung","female",28284,0,NA,791,"stage iib","t3","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-73-4677","lung","male",27381,1,38,NA,NA,"t2a","n0","m0","current reformed smoker for > 15 years",NA,NA,1985
+"TCGA-95-8494","lung","male",24773,0,NA,84,"stage iia","t2a","n1","m0","current reformed smoker, duration not specified",NA,NA,NA
+"TCGA-44-6778","lung","male",21725,0,NA,1864,"stage ia","t1","n0","mx","current reformed smoker for < or = 15 years",15,1974,2004
+"TCGA-73-A9RS","lung","male",15162,1,340,NA,"stage iib","t3","n0","m0","current smoker",11,1990,NA
+"TCGA-95-A4VP","lung","female",24130,0,NA,605,"stage iiia","t2b","n2","m0","current reformed smoker for < or = 15 years",20,1972,2012
+"TCGA-44-7660","lung","male",26594,0,NA,592,"stage ib","t2","n0","mx","current smoker",124,1949,NA
+"TCGA-44-7661","lung","female",25483,1,557,NA,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",22,1961,1976
+"TCGA-55-A48X","lung","female",23341,0,NA,689,"stage iia","t1b","n1","m0","current reformed smoker for < or = 15 years",36,1963,1999
+"TCGA-44-7667","lung","female",18062,0,NA,1097,"stage iib","t3","n0","mx","current smoker",50,1974,NA
+"TCGA-44-7669","lung","male",21893,1,574,NA,"stage iia","t1b","n1","mx","current smoker",20,1970,NA
+"TCGA-55-7913","lung","female",22326,1,561,NA,"stage ia","t1b","n0","mx","current smoker",40,1971,NA
+"TCGA-75-6206","lung","male",NA,0,NA,2590,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",20,NA,1962
+"TCGA-55-7994","lung","male",29858,0,NA,603,"stage iib","t3","n0","mx","current smoker",28,NA,NA
+"TCGA-44-8117","lung","female",19855,0,NA,385,"stage ib","t2a","n0","m0","current reformed smoker for < or = 15 years",54,1975,2011
+"TCGA-55-A494","lung","female",22540,0,NA,481,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",7,1967,1980
+"TCGA-44-8120","lung","male",21188,0,NA,260,"stage ib","t2a","n0","m0","current reformed smoker, duration not specified",30,1981,NA
+"TCGA-44-A479","lung","female",27024,0,NA,486,"stage ib","t2","n0","mx","current reformed smoker for < or = 15 years",40,1962,2002
+"TCGA-MP-A4T4","lung","female",25052,1,2617,NA,"stage iib","t2","n1","m0","current smoker",50,1954,NA
+"TCGA-44-A47B","lung","male",28869,0,NA,287,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",4.5,1956,1965
+"TCGA-86-7701","lung","male",24209,0,NA,947,"stage iv","t2","n0","m1","lifelong non-smoker",NA,NA,NA
+"TCGA-44-A47G","lung","female",26800,0,NA,351,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",28,1956,2012
+"TCGA-44-A4SS","lung","male",26991,0,NA,415,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",90,1952,2012
+"TCGA-44-A4SU","lung","female",24820,1,409,NA,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",50,1961,2011
+"TCGA-55-8203","lung","female",25477,0,NA,547,"stage ia","t1b","n0","m0","current smoker",50,NA,NA
+"TCGA-55-8204","lung","female",31818,0,NA,515,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-55-8205","lung","female",28063,0,NA,599,"stage iia","t2b","n0","m0","current reformed smoker for < or = 15 years",30,1951,2012
+"TCGA-55-8206","lung","male",20690,0,NA,888,"stage ia","t1b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-8207","lung","male",26897,0,NA,977,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-55-8208","lung","female",26716,0,NA,674,"stage ia","t1b","n0","m0","current smoker",50,NA,NA
+"TCGA-55-8299","lung","female",22626,1,469,NA,"stage ia","t1b","n0","mx","current reformed smoker for < or = 15 years",20,1971,2012
+"TCGA-55-8301","lung","male",21535,0,NA,534,"stage ib","t2a","n0","mx","current smoker",100,1962,NA
+"TCGA-55-8302","lung","male",20011,0,NA,478,"stage ib","t2","n0","mx","current smoker",59,1965,NA
+"TCGA-55-8505","lung","male",22676,0,NA,440,"stage iiia","t1a","n2","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-8506","lung","female",22850,0,NA,11,"stage iib","t3","n0","mx","current smoker",NA,1972,NA
+"TCGA-55-8507","lung","male",19390,0,NA,418,"stage ia","t1a","n0","mx","current smoker",120,1972,NA
+"TCGA-55-8508","lung","female",22159,0,NA,617,"stage iia","t2a","n1","mx","current smoker",NA,NA,NA
+"TCGA-49-6743","lung","female",29807,0,NA,1621,"stage iiia","t1","n2","mx","current reformed smoker for < or = 15 years",50,NA,NA
+"TCGA-55-8511","lung","female",26986,0,NA,552,"stage ib","t2a","n0","mx","current smoker",58,1953,NA
+"TCGA-NJ-A55O","lung","female",20628,0,NA,13,"stage iia","t1b","n1","m0","current reformed smoker for < or = 15 years",30,NA,2000
+"TCGA-NJ-A55R","lung","male",24738,0,NA,603,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",5,NA,1986
+"TCGA-55-8514","lung","female",25608,0,NA,520,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",20,1971,2011
+"TCGA-49-AAQV","lung","female",23370,1,677,NA,"stage ii","t1","n1","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-49-AAR0","lung","male",20932,0,NA,4765,"stage ia","t1","n0","mx","current smoker",37,NA,NA
+"TCGA-49-AAR2","lung","male",23479,0,NA,2224,"stage ib","t2","n0","mx","current reformed smoker for < or = 15 years",NA,NA,2006
+"TCGA-49-AAR3","lung","male",25469,0,NA,1893,"stage iib","t2","n1","mx",NA,NA,NA,NA
+"TCGA-49-AAR4","lung","male",18939,1,879,NA,"stage iiia","t2","n2","mx","current smoker",35,NA,NA
+"TCGA-49-AAR9","lung","male",22510,1,260,NA,"stage iib","t3","n0","mx","current smoker",NA,NA,NA
+"TCGA-86-A4D0","lung","male",17607,1,116,NA,"stage iia","t2b","n0","m0","current smoker",NA,1983,NA
+"TCGA-49-AARN","lung","female",20605,1,1135,NA,"stage ia","t1","n0","mx","current reformed smoker, duration not specified",NA,NA,NA
+"TCGA-55-A48Z","lung","female",22056,0,NA,651,"stage iiib","t1a","n3","mx","current reformed smoker for < or = 15 years",40,1972,2012
+"TCGA-55-A490","lung","male",28728,1,99,NA,"stage iia","t2b","n0","mx","current reformed smoker for > 15 years",34,1951,1985
+"TCGA-55-A491","lung","female",29593,0,NA,626,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",45,1952,1982
+"TCGA-55-A492","lung","female",25719,0,NA,596,"stage ia","t1a","n0","mx","current reformed smoker for > 15 years",35,1962,1995
+"TCGA-MP-A4SV","lung","male",24516,1,2620,NA,"stage ib","t2","n0","m0","current smoker",110,1946,NA
+"TCGA-91-6831","lung","male",24436,0,NA,310,"stage ib","t2","n0","mx","current smoker",NA,NA,NA
+"TCGA-55-A4DF","lung","male",32432,1,614,NA,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",60,NA,1984
+"TCGA-83-5908","lung","female",21760,0,NA,824,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",69,1962,2007
+"TCGA-55-8089","lung","male",20576,1,702,NA,"stage ia","t1a","n0","m0","current smoker",97,1973,NA
+"TCGA-62-8394","lung","female",23758,1,139,NA,"stage iiib","t4","n2","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-55-8091","lung","male",27385,0,NA,600,"stage ib","t2","n0","mx","current reformed smoker for > 15 years",NA,NA,1985
+"TCGA-86-7711","lung","male",25719,1,1046,NA,"stage iia","t2a","n1","m0","current smoker",50,1960,NA
+"TCGA-62-8398","lung","male",20197,1,444,NA,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",20,1970,1999
+"TCGA-MP-A4TA","lung","female",27513,1,950,NA,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",55,1951,2006
+"TCGA-86-7953","lung","female",25315,0,NA,997,"stage ia","t1b","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-7954","lung","female",25062,0,NA,605,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",8,1963,1971
+"TCGA-86-7955","lung","male",22772,0,NA,1072,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-8054","lung","male",22584,0,NA,1148,"stage iib","t2b","n1","m0","current smoker",9,1994,NA
+"TCGA-86-8055","lung","male",29124,1,124,NA,"stage iia","t2a","n1","m0","current smoker",60,1955,NA
+"TCGA-86-8056","lung","female",23369,0,NA,139,"stage iiia","t4","n0","m0","current reformed smoker for > 15 years",36,1963,1975
+"TCGA-62-A46V","lung","female",28495,0,NA,2199,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-86-8074","lung","female",22862,0,NA,24,"stage iia","t1b","n1","m0","current smoker",40,1970,NA
+"TCGA-62-A470","lung","male",30689,1,1194,NA,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",30,NA,NA
+"TCGA-62-A471","lung","male",23689,0,NA,1246,"stage iib","t2b","n1","m0","current reformed smoker for < or = 15 years",30,NA,2006
+"TCGA-50-6591","lung","female",23067,1,119,NA,"stage iv","t2","n0","m1","lifelong non-smoker",NA,NA,NA
+"TCGA-86-8279","lung","male",17032,0,NA,949,"stage iia","t2a","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-NJ-A4YP","lung","male",19106,0,NA,50,"stage ib","t2a","n0","m0","current reformed smoker, duration not specified",60,NA,NA
+"TCGA-50-6594","lung","female",28924,1,370,NA,"stage iiia","t3","n2","m0","current reformed smoker for < or = 15 years",NA,NA,1998
+"TCGA-NJ-A55A","lung","female",28022,0,NA,15,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",25,NA,1983
+"TCGA-73-4670","lung","female",25526,0,NA,131,"stage iv","t2","n0","m1","current reformed smoker for < or = 15 years",30,1979,2009
+"TCGA-J2-A4AD","lung","female",22414,1,550,NA,"stage ia","t1a","n0","mx","current smoker",120,1970,NA
+"TCGA-NJ-A7XG","lung","male",18127,0,NA,617,"stage iiia","t4","n1","m0","current reformed smoker for > 15 years",NA,NA,NA
+"TCGA-50-8457","lung","female",23055,0,NA,1125,"stage ia","t1a","n0","m0","current reformed smoker for < or = 15 years",30,NA,1997
+"TCGA-50-8459","lung","male",24859,0,NA,1119,"stage iib","t3","n0","m0","current smoker",10,NA,NA
+"TCGA-50-8460","lung","male",27270,0,NA,829,"stage ia","t1a","n0","m0",NA,NA,NA,NA
+"TCGA-53-7624","lung","female",14794,1,1043,NA,"stage iv","t2","n0","m1","current smoker",50,1986,NA
+"TCGA-86-8674","lung","male",18479,0,NA,806,"stage iia","t2a","n1","m0","current reformed smoker for < or = 15 years",37.5,1982,2012
+"TCGA-86-A456","lung","female",28533,0,NA,896,"stage ia","t1a","n0","m0","current reformed smoker for < or = 15 years",NA,1974,2009
+"TCGA-97-7547","lung","female",24737,0,NA,1965,"stage ib","t2","n0","mx","current reformed smoker for > 15 years",30,NA,1986
+"TCGA-86-A4JF","lung","male",20491,1,737,NA,"stage iib","t3","n0","m0","current reformed smoker for < or = 15 years",NA,NA,2012
+"TCGA-86-A4P7","lung","female",23330,0,NA,415,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-86-A4P8","lung","female",21738,0,NA,805,"stage iiia","t1b","n2","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-78-8655","lung","female",28379,0,NA,2360,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",10,1981,2001
+"TCGA-67-4679","lung","male",25202,0,NA,448,NA,"t3","n0","m0","current reformed smoker for < or = 15 years",NA,NA,NA
+"TCGA-91-6830","lung","female",23922,0,NA,60,"stage iia","t1","n1","mx","current reformed smoker for < or = 15 years",12,1990,2002
+"TCGA-55-7995","lung","female",26837,0,NA,889,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",60,NA,2002
+"TCGA-55-8085","lung","male",23596,0,NA,904,"stage ia","t1b","n0","m0","current smoker",NA,NA,NA
+"TCGA-91-6836","lung","female",19216,0,NA,417,"stage ib","t2","n0","mx","current smoker",50,1973,NA
+"TCGA-55-8090","lung","male",29235,1,598,NA,"stage ia","t1a","n0","m0","current smoker",NA,NA,NA
+"TCGA-MP-A4T6","lung","female",27993,1,1790,NA,"stage iiia","t1","n2","mx","current reformed smoker for > 15 years",50,NA,1989
+"TCGA-55-8092","lung","male",27597,1,154,NA,"stage iib","t3","n0","mx","current reformed smoker for < or = 15 years",40,1972,2012
+"TCGA-55-6975","lung","male",NA,1,118,NA,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",NA,NA,2004
+"TCGA-91-8496","lung","female",23358,0,NA,505,"stage ib","t2a","nx","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-91-8497","lung","female",27632,1,434,NA,"stage ia","t1a","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-69-7979","lung","female",26180,0,NA,408,"stage ib","t2a","n0","mx","current smoker",28,1955,NA
+"TCGA-97-A4M1","lung","female",19272,0,NA,601,"stage ia","t1a","n0","m0","current reformed smoker for > 15 years",3,1972,1975
+"TCGA-69-8253","lung","female",21771,0,NA,426,"stage iia","t1a","n1","mx","current reformed smoker for < or = 15 years",7.8,1972,2011
+"TCGA-69-8254","lung","male",31134,0,NA,409,NA,"t2b",NA,NA,"current reformed smoker for > 15 years",40,NA,1989
+"TCGA-55-6984","lung","female",NA,1,760,NA,"stage iib","t2","n1","m0",NA,NA,NA,NA
+"TCGA-93-8067","lung","male",28453,0,NA,186,"stage ib","t2a","n0","mx","current reformed smoker for < or = 15 years",20,1961,2001
+"TCGA-93-A4JN","lung","male",26273,0,NA,718,"stage iv","t2a","n0","m1a","current reformed smoker for > 15 years",40,1971,1991
+"TCGA-55-6987","lung","male",28382,0,NA,2137,"stage ia","t1","n0","m0","current reformed smoker for < or = 15 years",NA,NA,2006
+"TCGA-55-7227","lung","male",28458,1,952,NA,"stage iiia","t3","n1","mx","current reformed smoker for > 15 years",NA,1953,1993
+"TCGA-99-8028","lung","female",18542,0,NA,1118,"stage ia","t1a","n0","m0","current reformed smoker for < or = 15 years",30,1981,2011
+"TCGA-99-8032","lung","male",22635,0,NA,44,"stage ia","t1a","n0","m0","current smoker",90,1966,NA
+"TCGA-99-8033","lung","female",27342,1,656,NA,"stage iv","tx","nx","m1","lifelong non-smoker",NA,NA,NA
+"TCGA-73-4666","lung","female",19074,0,NA,800,"stage iv","t1","n0","m1","current reformed smoker for < or = 15 years",10,1982,2002
+"TCGA-55-8510","lung","female",20410,0,NA,539,"stage ib","t2a","n0","mx","current smoker",NA,NA,NA
+"TCGA-J2-8194","lung","female",25441,0,NA,724,"stage iib","t3","n0","mx","current reformed smoker for > 15 years",20,1956,1982
+"TCGA-95-7944","lung","male",26003,0,NA,377,"stage ia","t1a","n0","m0","current smoker",50,1961,NA
+"TCGA-J2-A4AE","lung","female",28163,0,NA,1079,"stage ia","t1a","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-95-8039","lung","male",26317,0,NA,830,"stage ia","t1","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-8614","lung","male",27924,0,NA,536,"stage ib","t2a","n0","mx","current reformed smoker for > 15 years",40,NA,1995
+"TCGA-95-A4VK","lung","female",27040,0,NA,651,"stage iiia","t2b","n2","m0","current reformed smoker for > 15 years",45,1956,1986
+"TCGA-95-A4VN","lung","female",22927,0,NA,553,"stage iia","t2a","n1","m0","current reformed smoker for < or = 15 years",42,1965,2007
+"TCGA-55-8619","lung","female",26616,0,NA,416,"stage iib","t3","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-7816","lung","female",18170,1,468,NA,"stage iv","tx","nx","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-55-8621","lung","female",27485,0,NA,515,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",30,1980,2010
+"TCGA-L9-A743","lung","male",20780,0,NA,664,"stage iia","t2a","n1","m0","current smoker",40.5,1986,NA
+"TCGA-55-7910","lung","female",18289,0,NA,1040,"stage iia","t2b","n0","m0","current reformed smoker for < or = 15 years",15,1996,2011
+"TCGA-78-8648","lung","female",21443,1,1209,NA,"stage iib","t3","n0","m0","current smoker",45,1971,NA
+"TCGA-L9-A8F4","lung","female",23617,0,NA,476,"stage ib","t2a","n0","mx","current smoker",14,1973,NA
+"TCGA-78-8660","lung","male",25422,1,321,NA,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",11,1954,2005
+"TCGA-78-8662","lung","female",19563,1,3361,NA,"stage ib","t2","n0","m0","current smoker",45,1964,NA
+"TCGA-MN-A4N5","lung","male",23257,0,NA,84,"stage ia","t1a","n0","m0","current reformed smoker for < or = 15 years",NA,1971,2011
+"TCGA-MP-A4SW","lung","male",19640,1,1778,NA,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",15,1967,1982
+"TCGA-55-8087","lung","female",21655,0,NA,462,"stage ib","t2a","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-97-8174","lung","male",24725,1,164,NA,"stage iia","t2b","n0","m0","current reformed smoker for > 15 years",40,1965,1985
+"TCGA-97-8175","lung","female",20206,0,NA,551,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",NA,NA,1981
+"TCGA-97-8176","lung","male",23170,1,468,NA,"stage iiia","t3","n1","m0","current reformed smoker for < or = 15 years",40,1971,2011
+"TCGA-MP-A4T7","lung","female",27603,1,167,NA,"stage iv","t2","n0","m1","current reformed smoker for < or = 15 years",50,1954,2004
+"TCGA-55-8094","lung","male",18903,0,NA,541,"stage iv","t2b","n0","m1b","current reformed smoker for < or = 15 years",70,1976,2011
+"TCGA-55-8096","lung","female",24684,1,719,NA,"stage ib","t2a","n0","mx","current smoker",104,1959,NA
+"TCGA-55-8097","lung","female",22260,0,NA,476,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",35,1973,2008
+"TCGA-97-A4M0","lung","female",22206,0,NA,652,"stage ib","t2a","n0","m0","current reformed smoker for < or = 15 years",34,1970,2004
+"TCGA-MP-A4TD","lung","male",25983,1,307,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",20,NA,1990
+"TCGA-97-A4M2","lung","male",24313,0,NA,624,"stage ia","t1a","n0","m0","current smoker",100,1972,NA
+"TCGA-97-A4M3","lung","female",25384,0,NA,540,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",37.5,1959,1984
+"TCGA-97-A4M5","lung","male",30665,0,NA,634,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",6,1952,1982
+"TCGA-97-A4M6","lung","female",16764,0,NA,568,"stage ia","t1a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-97-A4M7","lung","male",27062,0,NA,629,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",40,1958,1978
+"TCGA-MP-A4TK","lung","female",20581,1,582,NA,"stage iib","t2","n1","mx","current reformed smoker for < or = 15 years",28,1971,1999
+"TCGA-99-8025","lung","female",26634,0,NA,1060,"stage iiia","t3","n2","m0","current reformed smoker for < or = 15 years",20,1958,1998
+"TCGA-86-8076","lung","male",15605,0,NA,993,"stage ia","t1","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-62-A472","lung","male",25893,0,NA,910,"stage iib","t3","n0","m0","current smoker",60,NA,NA
+"TCGA-NJ-A4YI","lung","female",31867,1,4,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",3,1936,1976
+"TCGA-99-AA5R","lung","female",25778,0,NA,658,"stage ia","t1a","n0","m0","current smoker",46,1967,NA
+"TCGA-86-8281","lung","male",27409,0,NA,0,"stage ia","t1","nx","m0","current reformed smoker for > 15 years",30,1955,1985
+"TCGA-J2-8192","lung","female",23892,0,NA,739,"stage iia","t2a","n1","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-MN-A4N1","lung","male",21939,0,NA,827,"stage iia","t2a","n1","m0","current smoker",NA,1967,NA
+"TCGA-MN-A4N4","lung","male",20888,0,NA,1175,"stage ia","t1b","n0","m0","current smoker",NA,1980,NA
+"TCGA-78-7220","lung","female",19480,1,807,NA,"stage iiia","t2","n2","m0","current smoker",35,1965,NA
+"TCGA-86-8669","lung","male",23443,0,NA,938,"stage ia","t1b","n0","m0","current smoker",47,1965,NA
+"TCGA-55-8615","lung","male",24786,0,NA,446,"stage iiia","t3","n2","mx","current smoker",67,1966,NA
+"TCGA-55-8616","lung","female",21225,0,NA,48,"stage ib","t2a","n0","m0","current reformed smoker for < or = 15 years",NA,NA,1999
+"TCGA-86-8673","lung","male",22571,0,NA,862,"stage ib","t2","n0","m0","current smoker",54,1968,NA
+"TCGA-55-8620","lung","male",22091,1,375,NA,"stage iv","t1a","n1","m1b","current reformed smoker for < or = 15 years",154,1965,2012
+"TCGA-75-5125","lung","male",NA,1,2027,NA,"stage iib","t2","n1","m0","current reformed smoker for > 15 years",25,NA,1987
+"TCGA-L9-A5IP","lung","female",14681,1,58,NA,"stage iv","t3","n2","m1b","current reformed smoker for < or = 15 years",NA,NA,2012
+"TCGA-55-A48Y","lung","male",25384,0,NA,630,"stage iia","t2b","n0","m0","current smoker",50,1962,NA
+"TCGA-78-8640","lung","male",21832,0,NA,7062,"stage iia","t1","n1","m0","current smoker",45,1949,NA
+"TCGA-L9-A7SV","lung","male",25298,0,NA,565,"stage iia","t2a","n1","m0","current reformed smoker for > 15 years",93,1959,1990
+"TCGA-91-8499","lung","female",27853,0,NA,36,"stage ia","t1b","n0","mx","current smoker",90,1945,NA
+"TCGA-MP-A4TE","lung","male",20627,1,896,NA,"stage iia","t2b","n0","mx","current reformed smoker for < or = 15 years",40,1970,2010
+"TCGA-MP-A4TF","lung","female",21387,1,336,NA,"stage iia","t2b","n0","m0","current reformed smoker for < or = 15 years",40,1970,2010
+"TCGA-97-8171","lung","male",29627,0,NA,568,"stage iv","t2a","n2","m1a","current smoker",65,1946,NA
+"TCGA-80-5611","lung","male",NA,0,NA,2595,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",60,NA,2008
+"TCGA-MP-A4SY","lung","male",22448,1,1501,NA,"stage iib","t2","n1","m0","current reformed smoker for < or = 15 years",40,NA,2002
+"TCGA-MP-A4TJ","lung","female",22875,1,339,NA,"stage ia","t1","n0","m0","current smoker",NA,NA,NA
+"TCGA-86-8075","lung","female",24402,1,694,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-97-8177","lung","female",21648,0,NA,499,"stage ib","t2a","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-MP-A4T8","lung","male",25069,1,161,NA,"stage iiia","t2","n2","m0","current reformed smoker for > 15 years",25,1957,1972
+"TCGA-MP-A4T9","lung","female",19767,1,1265,NA,"stage iiia","t2","n2","mx","current reformed smoker for < or = 15 years",24,1980,2004
+"TCGA-97-8552","lung","female",20331,0,NA,626,"stage i","t1a","n0","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-MP-A4TC","lung","male",28471,1,74,NA,"stage iiia","t1","n2","m0","current reformed smoker for > 15 years",125,1944,1976
+"TCGA-NJ-A4YQ","lung","female",25427,0,NA,1432,"stage ia","t1b","n0","m0","current reformed smoker for < or = 15 years",40,NA,2011
+"TCGA-97-A4LX","lung","male",29915,0,NA,614,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",120,1945,1985
+"TCGA-64-5779","lung","male",22305,0,NA,864,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",40,1969,2009
+"TCGA-MP-A4TH","lung","female",25759,0,NA,741,"stage ia","t1a","n0","m0","current reformed smoker for > 15 years",20,1962,1982
+"TCGA-MP-A4TI","lung","male",26565,1,429,NA,"stage iia","t2a","n1","m0","current reformed smoker for > 15 years",35,1955,1990
+"TCGA-86-8073","lung","male",21214,0,NA,740,"stage ib","t2a","n0","m0","current smoker",40,1970,NA
+"TCGA-86-8278","lung","female",23117,0,NA,944,"stage iib","t2","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-L9-A443","lung","female",23062,1,193,NA,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",90,1960,2005
+"TCGA-71-8520","lung","female",21921,1,210,NA,"stage ib","t2","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-NJ-A4YF","lung","female",18584,0,NA,2161,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",30,NA,NA
+"TCGA-86-8671","lung","female",26448,0,NA,839,"stage iib","t2b","n1","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-NJ-A4YG","lung","male",23812,0,NA,2261,"stage ib","t2","n0","m0","current reformed smoker for < or = 15 years",104,1955,2007
+"TCGA-95-7562","lung","male",26000,1,87,NA,"stage iia","t2a","n1","m0","current reformed smoker for > 15 years",10,1973,1983
+"TCGA-78-7146","lung","female",26272,1,173,NA,"stage iiia","t2","n2","m0","current reformed smoker for < or = 15 years",6,1988,1998
+"TCGA-L9-A50W","lung","male",27414,1,442,NA,"stage iia","t1b","n1","mx","current reformed smoker for > 15 years",19,1967,1986
+"TCGA-L4-A4E5","lung","female",17680,0,NA,578,"stage i","t1","n0","m0","current reformed smoker for < or = 15 years",33,1979,2012
+"TCGA-91-A4BD","lung","male",28544,0,NA,603,"stage iia","t1b","n1","mx","current reformed smoker for > 15 years",NA,NA,1981
+"TCGA-J2-A4AG","lung","female",24224,0,NA,988,"stage ia","t1b","n0","mx","current reformed smoker for > 15 years",25,1956,1981
+"TCGA-93-A4JO","lung","male",25898,1,33,NA,"stage ia","t1a","n0","mx","current reformed smoker for < or = 15 years",50,1956,2006
+"TCGA-97-8179","lung","male",26305,0,NA,435,"stage ia","t1a","n0","m0","current reformed smoker for > 15 years",60,1958,1988
+"TCGA-L4-A4E6","lung","male",24631,0,NA,435,"stage ia","t1","n0","m0","current reformed smoker for > 15 years",30,1954,1984
+"TCGA-L9-A444","lung","female",22202,0,NA,307,"stage ia","t1a","n0","mx","current smoker",10,1972,NA
+"TCGA-97-8172","lung","female",27416,0,NA,545,"stage ib","t2a","n0","m0","current reformed smoker for > 15 years",20,1961,1981
+"TCGA-69-7973","lung","female",15355,0,NA,230,"stage ib","t2a","n0","m0","current reformed smoker for < or = 15 years",25,NA,2011
+"TCGA-97-8547","lung","female",28801,0,NA,657,"stage iiia","t2a","n2","mx","lifelong non-smoker",NA,NA,NA
+"TCGA-MP-A5C7","lung","female",28015,0,NA,2248,"stage ib","t2","n0","m0","current reformed smoker for > 15 years",15,1953,1968
+"TCGA-93-A4JP","lung","male",23620,0,NA,578,"stage iv","tx","nx","m1b","lifelong non-smoker",NA,NA,NA
+"TCGA-O1-A52J","lung","female",27223,1,1798,NA,"stage ia","t1","n0","mx","current reformed smoker for > 15 years",45,1950,1980
+"TCGA-86-8672","lung","male",21682,1,19,NA,"stage iib","t3","n0","m0","lifelong non-smoker",NA,NA,NA
+"TCGA-69-8255","lung","male",26289,0,NA,129,"stage ia","t1a","n0","m0","current smoker",40,1971,NA
+"TCGA-S2-AA1A","lung","female",24903,0,NA,513,"stage ia","t1b","n0","m0","current reformed smoker for > 15 years",95,1957,1995

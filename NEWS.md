@@ -2,6 +2,7 @@
 
 ## Changes in version 0.1.1
 - Add the `beers` data and source file <2019-02-11 Mon>
+- Add the `clinical` data and source file <2019-02-11 Mon>
 
 ## Changes in version 0.1.0
 
