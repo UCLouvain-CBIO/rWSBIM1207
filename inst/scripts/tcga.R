@@ -68,4 +68,4 @@ expression <- as_tibble(expression) %>%
   select(sampleID, patient, type, RNAseq$Gene[1:5])
 
 save(expression, file = "../../data/expression.rda")
-write.csv(expression, "../extdata/expression.csv")
+write.csv(expression, "../extdata/expression.csv", row.names = FALSE)
