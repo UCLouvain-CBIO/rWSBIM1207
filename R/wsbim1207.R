@@ -10,8 +10,9 @@
 #' The following data sets are available. Consult the respective manual pages
 #' for further details.
 #'
-#' - data 1: the first data, ...
-#' - data 2: the second data, ...
+#' - tcga clinical and RNA expression data: see `?tcga`.
+#' - beer consumption data: see `?beers`.
+#' - tables to illustrate joins: see `jdf`.
 #'
 #' @importFrom utils packageVersion
 #' @import dplyr
@@ -19,3 +20,11 @@
 #' @md
 #' @name rWSBIM1207
 NULL
+
+#' @export
+#' @name rWSBIM1207
+#' @examples
+#' ## check the package version that is currently installed
+#' rWSBIM1207version()
+rWSBIM1207version <- function()
+    utils::packageVersion("rWSBIM1207")

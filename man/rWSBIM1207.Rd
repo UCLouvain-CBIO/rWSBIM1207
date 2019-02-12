@@ -4,7 +4,11 @@
 \name{rWSBIM1207}
 \alias{rWSBIM1207}
 \alias{rWSBIM1207-package}
+\alias{rWSBIM1207version}
 \title{rWSBIM1207: Companion package for WSBIM1207 course}
+\usage{
+rWSBIM1207version()
+}
 \description{
 This package is used to distribute data and general documentation about the
 WSBIM1207 course, and to make course administration easier. For details about
@@ -17,8 +21,13 @@ the course and the course material, see
 The following data sets are available. Consult the respective manual pages
 for further details.
 \itemize{
-\item data 1: the first data, ...
-\item data 2: the second data, ...
+\item tcga clinical and RNA expression data: see \code{?tcga}.
+\item beer consumption data: see \code{?beers}.
+\item tables to illustrate joins: see \code{jdf}.
 }
 }
 
+\examples{
+## check the package version that is currently installed
+rWSBIM1207version()
+}
