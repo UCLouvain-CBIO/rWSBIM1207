@@ -14,8 +14,13 @@
 }
 
 \description{
-
-  TCGA clinical and RNAseq expression data extraced from the
+  The Cancer Genome Atlas (TCGA) is a collaboration between the National 
+  Cancer Institute (NCI) and the National Human Genome Research Institute 
+  (NHGRI) that has generated multi-omics analyses (genomic, transcriptomic,
+  proteomic and epigenetic) in 33 types of cancer. 
+  RNAseq and clinical data analysed here come from LUAD (lung adenocarcinoma) 
+  tumors and corresponding patients. 
+  TCGA clinical and RNAseq expression data extracted from the
   \code{curatedTCGAData} package. See \code{inst/scripts/tcga.R} for
   details.
 
