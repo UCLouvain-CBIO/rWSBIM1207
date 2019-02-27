@@ -3,6 +3,8 @@
 export(beers.csv)
 export(clinical1.csv)
 export(expression.csv)
+export(interroA.csv)
+export(interroB.csv)
 export(rWSBIM1207version)
 import(dplyr)
 importFrom(utils,packageVersion)
