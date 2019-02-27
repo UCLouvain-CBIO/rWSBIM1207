@@ -16,3 +16,15 @@ clinical1.csv <- function()
 expression.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "expression.csv")
+
+##' @rdname interro
+##' @export
+interroA.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "interroA.csv")
+
+##' @rdname interro
+##' @export
+interroB.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "interroB.csv")

@@ -1,5 +1,8 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.2
+- Add `interro` csv files <2019-02-27 Wed>
+
 ## Changes in version 0.1.1
 - Add the `beers` data and source file <2019-02-11 Mon>
 - Add the `clinical` data and source file <2019-02-11 Mon>
