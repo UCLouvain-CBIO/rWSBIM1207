@@ -1,15 +1,16 @@
 Package: rWSBIM1207
 Type: Package
 Title: Companion package for WSBIM1207 course
-Version: 0.1.2
+Version: 0.1.3
 Author: Laurent Gatto
 Maintainer: Laurent Gatto <laurent.gatto@uclouvain.be>
 Description: Companion package for the WSBIM1207 course, distributing
     data and general documentation, and making course administration
     easier.
 License: GPL-2
-Imports: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
-    curatedTCGAData, ALL, tidyverse, utils, rmarkdown, dplyr
+Imports: utils, tibble, dplyr
+Suggests: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
+    curatedTCGAData, ALL, tidyverse, rmarkdown
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1

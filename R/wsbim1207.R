@@ -15,7 +15,7 @@
 #' - tables to illustrate joins: see `jdf`.
 #'
 #' @importFrom utils packageVersion
-#' @import dplyr
+#' @import dplyr tibble
 #' @docType package
 #' @md
 #' @name rWSBIM1207

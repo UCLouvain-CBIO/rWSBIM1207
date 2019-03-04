@@ -1,5 +1,8 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.3
+- More imports to suggest (see #3) <2019-03-04 Mon>
+
 ## Changes in version 0.1.2
 - Add `interro` csv files <2019-02-27 Wed>
 
