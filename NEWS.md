@@ -1,5 +1,8 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.3
+- Add `peptide` vector <2019-03-10 Sun>
+
 ## Changes in version 0.1.2
 - Add `interro` csv files <2019-02-27 Wed>
 
