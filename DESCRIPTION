@@ -8,8 +8,9 @@ Description: Companion package for the WSBIM1207 course, distributing
     data and general documentation, and making course administration
     easier.
 License: GPL-2
-Imports: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
-    curatedTCGAData, ALL, tidyverse, utils, rmarkdown, dplyr
+Imports: utils, tibble, dplyr
+Suggests: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
+    curatedTCGAData, ALL, tidyverse, rmarkdown
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1

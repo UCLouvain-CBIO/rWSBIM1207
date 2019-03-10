@@ -2,6 +2,7 @@
 
 ## Changes in version 0.1.3
 - Add `peptide` vector <2019-03-10 Sun>
+- More imports to suggest (see #3) <2019-03-04 Mon>
 
 ## Changes in version 0.1.2
 - Add `interro` csv files <2019-02-27 Wed>
