@@ -91,7 +91,8 @@ data("clinical_table_ex1")
 
   In addition, the \code{clinical1.csv} and \code{expression.csv}
   function return the paths to these respective comma-separated value
-  spreadsheets.
+  spreadsheets. The \code{expressions.csv} function returns the path to
+  the expression data split by gene.
 
 }
 

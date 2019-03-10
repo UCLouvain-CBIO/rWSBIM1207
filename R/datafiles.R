@@ -17,6 +17,12 @@ expression.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "expression.csv")
 
+##' @rdname tcga
+##' @export
+expressions.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "expression_A.*.csv")
+
 ##' @rdname interro
 ##' @export
 interroA.csv <- function()

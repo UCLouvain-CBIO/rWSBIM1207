@@ -69,3 +69,17 @@ expression <- as_tibble(expression) %>%
 
 save(expression, file = "../../data/expression.rda")
 write.csv(expression, "../extdata/expression.csv", row.names = FALSE)
+
+## save each gene in a separate table as an exercice for iteraction
+shared_cols <- names(expression)[1:3]
+gene_cols <- names(expression)[-(1:3)]
+
+## assuming to be in inst/scripts
+for (i in gene_cols) {
+    x <- paste0("expression_", i)
+    assign(x, expression[, c(shared_cols, i)])
+    f <- paste0("../extdata/expression_", i, ".csv")
+    write.csv(get(x), file = f, row.names = FALSE)
+}
+
+

@@ -1,6 +1,8 @@
 # rWSBIM1207 0.1
 
 ## Changes in version 0.1.3
+- Add `expressions.csv` returning the paths to individual gene
+  expression data (based on `expression`) <2019-03-10 Sun>
 - Add `peptide` vector <2019-03-10 Sun>
 - More imports to suggest (see #3) <2019-03-04 Mon>
 
