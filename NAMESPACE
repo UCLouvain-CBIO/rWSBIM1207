@@ -3,6 +3,7 @@
 export(beers.csv)
 export(clinical1.csv)
 export(expression.csv)
+export(expressions.csv)
 export(interroA.csv)
 export(interroB.csv)
 export(rWSBIM1207version)

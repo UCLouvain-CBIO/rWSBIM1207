@@ -6,6 +6,7 @@
 \alias{clinical_table_ex1}
 \alias{clinical1.csv}
 \alias{expression.csv}
+\alias{expressions.csv}
 
 \docType{data}
 
