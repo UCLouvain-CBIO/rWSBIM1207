@@ -1,5 +1,9 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.4
+- New `mvylng` data, taken from `pRolocdata`'s `mulvey2015` and
+  converted into a long format <2019-03-26 Tue>g
+
 ## Changes in version 0.1.3
 - Add `expressions.csv` returning the paths to individual gene
   expression data (based on `expression`) <2019-03-10 Sun>
