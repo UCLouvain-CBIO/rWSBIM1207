@@ -1,4 +1,5 @@
-Companion package for the WSBIM1207 course.
+Companion package for the
+[WSBIM1207](https://uclouvain-cbio.github.io/WSBIM1207/) course.
 
 Installation
 
