@@ -52,7 +52,6 @@ save(interroC, file = "../../data/interroC.rda",
      compress = "xz", compression_level = 9)
 
 
-
 interroA$serie <- "A"
 interroB$serie <- "B"
 interroL <- gather(as_tibble(rbind(interroA, interroB)),
