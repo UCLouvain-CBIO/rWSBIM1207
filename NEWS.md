@@ -2,7 +2,8 @@
 
 ## Changes in version 0.1.4
 - New `mvylng` data, taken from `pRolocdata`'s `mulvey2015` and
-  converted into a long format <2019-03-26 Tue>g
+  converted into a long format <2019-03-26 Tue>
+- Add `interroC` and `interroL` data files <2019-03-27 Wed>
 
 ## Changes in version 0.1.3
 - Add `expressions.csv` returning the paths to individual gene

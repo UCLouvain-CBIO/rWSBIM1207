@@ -1,3 +1,5 @@
+library("tidyverse")
+
 n <- 100
 m <- 105
 
@@ -34,5 +36,26 @@ interroB$interro1[sample(m, 3)] <- NA
 interroB$interro2[sample(m, 1)] <- NA
 interroB$interro3[sample(m, 7)] <- NA
 interroB$interro4[sample(m, 7)] <- NA
+
 write.csv(interroA, "../extdata/interroA.csv", row.names = FALSE)
 write.csv(interroB, "../extdata/interroB.csv", row.names = FALSE)
+
+set.seed(5)
+n <- 10 + 5
+interroC <- tibble(id = sample(c(generate_id(10), sample(interroA$id, 5))),
+                   interro5 = sample(3:14, n, replace = TRUE),
+                   interro6 = sample(11:20, n, replace = TRUE),
+                   interro7 = sample(6:19, n, replace = TRUE))
+save(interroC, file = "../../data/interroC.rda",
+     compress = "xz", compression_level = 9)
+
+
+
+interroA$serie <- "A"
+interroB$serie <- "B"
+interroL <- gather(as_tibble(rbind(interroA, interroB)),
+                   key = interro, value = result,
+                   starts_with("interro"))
+
+save(interroL, file = "../../data/interroL.rda",
+     compress = "xz", compression_level = 9)
