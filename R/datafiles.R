@@ -34,3 +34,9 @@ interroA.csv <- function()
 interroB.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "interroB.csv")
+
+##' @rdname kem
+##' @export
+kem.tsv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "kem_.+\\.tsv")
