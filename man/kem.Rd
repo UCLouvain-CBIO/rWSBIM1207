@@ -49,7 +49,7 @@
     \item{\samp{KEM182-16}}{Expression counts for all genes in sample KEM182-16.}
   }
 
-  The annotation contains the following variables for 18 observations:
+  The annotation contains the following variables for the 16 observations:
   
   \describe{
     \item{\code{sample_id}}{Sample identifier.}
