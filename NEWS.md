@@ -1,5 +1,8 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.5
+- A new `KEM` RNA-Seq data <2019-04-02 Tue>
+
 ## Changes in version 0.1.4
 - New `mvylng` data, taken from `pRolocdata`'s `mulvey2015` and
   converted into a long format <2019-03-26 Tue>
