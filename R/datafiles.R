@@ -1,42 +1,51 @@
-##' @rdname beers
 ##' @export
 beers.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "beers.csv")
 
+##' @export
+beers2.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "beers2.csv")
 
-##' @rdname tcga
 ##' @export
 clinical1.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "clinical1.csv")
 
-##' @rdname tcga
 ##' @export
 expression.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "expression.csv")
 
-##' @rdname tcga
 ##' @export
 expressions.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "expression_A.*.csv")
 
-##' @rdname interro
 ##' @export
 interroA.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "interroA.csv")
 
-##' @rdname interro
 ##' @export
 interroB.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "interroB.csv")
 
-##' @rdname kem
 ##' @export
-kem.tsv <- function()
-    dir(system.file("extdata", package = "rWSBIM1207"),
-        full.names = TRUE, pattern = "kem_.+\\.tsv")
+kem.tsv <- function() {
+    c(dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_counts\\.tsv"),
+      dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_annot\\.tsv"))
+}
+
+
+##' @export
+kem2.tsv <- function() {
+    c(dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_counts2\\.tsv"),
+      dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_annot\\.tsv"))
+}

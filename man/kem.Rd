@@ -3,6 +3,7 @@
 \alias{kem_count}
 \alias{kem_annot}
 \alias{kem.tsv}
+\alias{kem2.tsv}
 
 \docType{data}
 
@@ -13,8 +14,8 @@
 
 \description{
 
-  This data is composed of two files, namely \code{kem_counts.tsv},
-  containing the counts data and the annotation file
+  This data is composed of three files, namely \code{kem_counts.tsv},
+  \code{kem_counts2.tsv}, containing counts data and the annotation file
   \code{kem_annot.tsv} containing the annotations the KEM samples. Both
   files are encoded as tab-separtated sheets and can be found with the
   \code{kem.tsv()} function.
@@ -25,10 +26,10 @@
 
 
 \format{
-  
+
   The RNA-Seq count data for 13 ENSEMBL transcripts (ref) and 16 KEM
   samples is encoded as:
-  
+
   \describe{
     \item{\code{ref}}{ENSEMBL transcript identifiers.}
     \item{\samp{KEM182-01}}{Expression counts for all genes in sample KEM182-01.}
@@ -49,19 +50,22 @@
     \item{\samp{KEM182-16}}{Expression counts for all genes in sample KEM182-16.}
   }
 
+  The \code{kem_counts2.tsv} file contains counts data for 4774 features.
+
   The annotation contains the following variables for the 16 observations:
-  
+
   \describe{
     \item{\code{sample_id}}{Sample identifier.}
     \item{\code{jurkat}}{A character (yes or no) defining of the cells a Jurkat cells.}
     \item{\code{cell_type}}{Jurkat cell type (A or B).}
     \item{\code{treatment}}{Treatment: either none or stimulated.}
-  }  
+  }
 }
 
 
 \examples{
 kem.tsv()
+kem2.tsv()
 }
 
 \keyword{datasets}

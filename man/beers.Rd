@@ -1,6 +1,7 @@
 \name{beers}
 \alias{beers}
 \alias{beers.csv}
+\alias{beers2.csv}
 
 \docType{data}
 

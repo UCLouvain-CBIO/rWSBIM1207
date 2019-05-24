@@ -1,6 +1,10 @@
 # rWSBIM1207 0.1
 
 ## Changes in version 0.1.5
+- Additionnal `beers2.csv` and `kem_counts2.tsv` data
+  files. <2019-05-24 Fri>
+
+## Changes in version 0.1.5
 - A new `KEM` RNA-Seq data <2019-04-02 Tue>
 
 ## Changes in version 0.1.4
