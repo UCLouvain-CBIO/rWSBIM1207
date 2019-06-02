@@ -27,4 +27,4 @@ rownames(beers2) <- NULL
 beers2$Consumption[sample(n, 3)] <- NA
 beers2$Work[sample(n, 2)] <- NA
 
-readr::write_csv(beers2, path = "../extdata/beer2.csv")
+readr::write_csv(beers2, path = "../extdata/beers2.csv")

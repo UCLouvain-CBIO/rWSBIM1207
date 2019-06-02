@@ -8,7 +8,7 @@ Description: Companion package for the WSBIM1207 course, distributing
     data and general documentation, and making course administration
     easier.
 License: GPL-2
-Depends: R (>= 2.10)
+Depends: R (>= 3.5.0)
 Imports: utils, tibble, dplyr
 Suggests: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
     curatedTCGAData, ALL, tidyverse, rmarkdown
