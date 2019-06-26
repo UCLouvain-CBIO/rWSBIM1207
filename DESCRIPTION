@@ -1,6 +1,6 @@
 Package: rWSBIM1207
 Type: Package
-Title: Companion package for WSBIM1207 course
+Title: Companion Package for WSBIM1207 Course
 Version: 0.1.6
 Author: Laurent Gatto
 Maintainer: Laurent Gatto <laurent.gatto@uclouvain.be>
