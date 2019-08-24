@@ -1,6 +1,9 @@
 # rWSBIM1207 0.1
 
-## Changes in version 0.1.5
+## Changes in version 0.1.7
+- Remove superflous columns in `kem_counts2.tsv` <2019-08-24 Sat>
+
+## Changes in version 0.1.6
 - Additionnal `beers2.csv` and `kem_counts2.tsv` data
   files. <2019-05-24 Fri>
 
