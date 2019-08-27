@@ -4,6 +4,7 @@
 \alias{kem_annot}
 \alias{kem.tsv}
 \alias{kem2.tsv}
+\alias{kem3.tsv}
 
 \docType{data}
 
@@ -66,6 +67,7 @@
 \examples{
 kem.tsv()
 kem2.tsv()
+kem3.tsv()
 }
 
 \keyword{datasets}

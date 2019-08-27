@@ -49,3 +49,13 @@ kem2.tsv <- function() {
       dir(system.file("extdata", package = "rWSBIM1207"),
           full.names = TRUE, pattern = "kem_annot\\.tsv"))
 }
+
+##' @export
+kem3.tsv <- function() {
+    c(dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_counts3a\\.tsv"),
+      dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_counts3b\\.tsv"),
+      dir(system.file("extdata", package = "rWSBIM1207"),
+          full.names = TRUE, pattern = "kem_annot\\.tsv"))
+}
