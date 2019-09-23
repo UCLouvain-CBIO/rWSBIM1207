@@ -34,6 +34,11 @@ interroB.csv <- function()
         full.names = TRUE, pattern = "interroB.csv")
 
 ##' @export
+interro2.rds <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "interro2.rds")
+
+##' @export
 kem.tsv <- function() {
     c(dir(system.file("extdata", package = "rWSBIM1207"),
           full.names = TRUE, pattern = "kem_counts\\.tsv"),

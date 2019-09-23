@@ -1,8 +1,10 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.9
+- New `interros2.rda` file <2019-09-23 Mon>
+
 ## Changes in version 0.1.8
 - Additionnal `kem_counts3.tsv` data files. <2019-08-26 Mon>
-
 
 ## Changes in version 0.1.7
 - Remove superflous columns in `kem_counts2.tsv` <2019-08-24 Sat>

@@ -6,6 +6,7 @@
 \alias{interroL}
 \alias{interroA.csv}
 \alias{interroB.csv}
+\alias{interro2.rds}
 
 \docType{data}
 
@@ -37,13 +38,16 @@
 
   `interroL` is a long format containing all results from `interroA` and
   `interroB`.
-    
+
 }
 
 \examples{
 f <- interroA.csv()
 interroA <- read.csv(f)
 head(interroA)
+
+f2 <- interro2.rds()
+readRDS(f2)
 }
 
 \keyword{datasets}
