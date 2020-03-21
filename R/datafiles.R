@@ -64,3 +64,8 @@ kem3.tsv <- function() {
       dir(system.file("extdata", package = "rWSBIM1207"),
           full.names = TRUE, pattern = "kem_annot\\.tsv"))
 }
+
+##' @export
+covid19.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "covid19-confirmed-cases.csv")
