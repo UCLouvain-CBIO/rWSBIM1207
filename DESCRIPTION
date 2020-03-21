@@ -15,7 +15,7 @@ License: GPL-2
 Depends: R (>= 3.5.0)
 Imports: utils, tibble, dplyr
 Suggests: MSnbase, Biobase, SummarizedExperiment, pRolocdata,
-    curatedTCGAData, ALL, tidyverse, rmarkdown
+    curatedTCGAData, ALL, tidyverse, rmarkdown, readr
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.0

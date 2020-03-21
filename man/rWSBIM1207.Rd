@@ -3,7 +3,6 @@
 \docType{package}
 \name{rWSBIM1207}
 \alias{rWSBIM1207}
-\alias{rWSBIM1207-package}
 \alias{rWSBIM1207version}
 \title{rWSBIM1207: Companion package for WSBIM1207 course}
 \usage{

@@ -68,4 +68,4 @@ kem3.tsv <- function() {
 ##' @export
 covid19.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
-        full.names = TRUE, pattern = "covid19-confirmed-cases.csv")
+        full.names = TRUE, pattern = "covid19-confirmed-cases\\.csv")
