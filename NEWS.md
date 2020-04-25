@@ -2,6 +2,7 @@
 
 ## Changes in version 0.1.11
 - Add Citymapper Mobility Index data <2020-04-15 Wed>
+- Add new covid data (cases, deaths and recovered) <2020-04-25 Sat>
 
 ## Changes in version 0.1.10
 - Adding COVID-19 data <2020-03-21 Sat>
