@@ -11,6 +11,7 @@
 }
 
 \description{
+  
   These data were downloaded from Novel Coronavirus COVID-19 (2019-nCoV)
   Data Repository by Johns Hopkins CSSE
   (https://github.com/CSSEGISandData/COVID-19):
@@ -25,7 +26,8 @@
   `covid19_recoevered.csv()` functions return the path to a
   comma-separated file containing confirmed cases, deaths and recovered
   cases over time for a certain number of coutries/regions. See example
-  below for details.  }
+  below for details.
+}
 
 
 \usage{
