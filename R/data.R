@@ -9,6 +9,10 @@
 ##' @return Invisibly returns `TRUE`. Used for its side effect to load
 ##'     an object of class `MSnSet` in the user's global environment.
 ##'
+##' @importFrom stats rnorm
+##' @importFrom stats runif
+##' @importFrom stats t.test
+##' 
 ##' @export
 ##' 
 ##' @examples
@@ -22,17 +26,16 @@ load_exam_data <- function(noma) {
     p <- round(runif(1, 12, 20))
     mn <- runif(1, 5, 10)
     std <- runif(1, 2, 5)
-    m <- matrix(rnorm(n * p, mn, std), nrow = n, ncol = p)
+    m <- abs(matrix(rnorm(n * p, mn, std), nrow = n, ncol = p))
     colnames(m) <- paste0("sample_", 1:p)
     rownames(m) <- paste0("gene_", 1:n)
     ## define sample metadata
-    n_gr <- round(runif(1, 2, 3))
+    n_gr <- 3
     pdata <- data.frame(sample = colnames(m),
                         row.names = colnames(m))
     pdata$groups <- "A"
     pdata$groups[sample(p, round(p/n_gr))] <- "B"    
-    if (n_gr > 2)
-        pdata$groups[sample(p, round(p/n_gr))] <- "C"
+    pdata$groups[sample(p, round(p/n_gr))] <- "C"
     ## define feature metadata
     fdata <- data.frame(row.names = rownames(m))
 

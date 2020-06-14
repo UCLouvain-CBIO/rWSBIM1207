@@ -12,7 +12,7 @@ coercible to a `numeric`.}
 }
 \value{
 Invisibly returns `TRUE`. Used for its side effect to load
-    an object of class `MSnSet` in the users environment.
+    an object of class `MSnSet` in the user's global environment.
 }
 \description{
 This function generates data based on a student number and loads
