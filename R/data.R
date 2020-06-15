@@ -34,16 +34,17 @@ load_exam_data <- function(noma) {
     pdata <- data.frame(sample = colnames(m),
                         row.names = colnames(m))
     pdata$groups <- "A"
-    pdata$groups[sample(p, round(p/n_gr))] <- "B"    
-    pdata$groups[sample(p, round(p/n_gr))] <- "C"
+    bc  <- sample(p, 2 * round(p/n_gr))
+    pdata$groups[1:(length(bc)/2)] <- "B"
+    pdata$groups[(length(bc)/2):length(bc)] <- "C"
+
     ## define feature metadata
     fdata <- data.frame(row.names = rownames(m))
-
     sel_a <- which(pdata$groups == "A")
     sel_b <- which(pdata$groups == "B")
     n_a <- length(sel_a)
     n_b <- length(sel_b)
-                     
+    
     m2 <- m[, c(sel_a, sel_b)]
     fdata$p.value <- apply(m2, 1, function(xx)
         t.test(xx[1:n_a], xx[(n_a + 1):(n_a + n_b)])$p.value)
