@@ -49,8 +49,11 @@ load_exam_data <- function(noma) {
     fdata$p.value <- apply(m2, 1, function(xx)
         t.test(xx[1:n_a], xx[(n_a + 1):(n_a + n_b)])$p.value)
 
-    ## Add 1% missing values
-    m[sample(n * p, round((n * p) * 0.01))] <- NA    
+    ## Add missing values
+    pna <- sample(8:12, 1)/1000
+    m[sample(n * p, round((n * p) * pna))] <- NA
+    ## Add 1 specific NA
+    m["gene_12", sel_a[1]] <- NA
     
     res <- MSnbase::MSnSet(exprs = m,
                            pData = pdata,
