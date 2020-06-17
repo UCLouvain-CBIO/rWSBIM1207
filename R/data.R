@@ -19,6 +19,7 @@
 ##' load_exam_data("0123")
 ##' x0123
 load_exam_data <- function(noma) {
+    stopifnot(suppressPackageStartupMessages(require("MSnbase")))
     stopifnot(length(noma) == 1)
     set.seed(as.numeric(noma))
     ## define expression data
@@ -40,6 +41,7 @@ load_exam_data <- function(noma) {
 
     ## define feature metadata
     fdata <- data.frame(row.names = rownames(m))
+    fdata$genes <- rownames(m)
     sel_a <- which(pdata$groups == "A")
     sel_b <- which(pdata$groups == "B")
     n_a <- length(sel_a)
