@@ -66,6 +66,21 @@ kem3.tsv <- function() {
 }
 
 ##' @export
-covid19.csv <- function()
+covid19_cases.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
-        full.names = TRUE, pattern = "covid19-confirmed-cases\\.csv")
+        full.names = TRUE, pattern = "covid19-cases\\.csv")
+
+##' @export
+covid19_deaths.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "covid19-deaths\\.csv")
+
+##' @export
+covid19_recovered.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "covid19-recovered\\.csv")
+
+##' @export
+apple_mobility.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "applemobilitytrends-2020-06-12.csv")

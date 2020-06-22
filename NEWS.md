@@ -1,5 +1,13 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.12
+- Add Apple mobility data <2020-06-16 Tue>
+- Add new covid data (cases, deaths and recovered) <2020-06-16 Tue>
+- Add `load_exam_data()` function <2020-06-16 Tue>
+
+## Changes in version 0.1.11
+- Intermediate version to test new installation.
+
 ## Changes in version 0.1.10
 - Adding COVID-19 data <2020-03-21 Sat>
 
