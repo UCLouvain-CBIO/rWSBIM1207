@@ -1,5 +1,8 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.13
+- Update COVID19 data <2021-06-02 Wed>
+
 ## Changes in version 0.1.12
 - Add Apple mobility data <2020-06-16 Tue>
 - Add new covid data (cases, deaths and recovered) <2020-06-16 Tue>
