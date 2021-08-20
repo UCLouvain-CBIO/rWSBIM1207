@@ -1,6 +1,8 @@
 ## Source: 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository
 ## by Johns Hopkins CSSE - https://github.com/CSSEGISandData/COVID-19
 
+## udpated on the <2021-08-20 Fri>
+
 f <- tempfile()
 
 ## Confirmed global
@@ -25,4 +27,3 @@ unlink("../extdata/covid19-recovered.csv")
 readr::write_csv(cv, "../extdata/covid19-recovered.csv")
 
 unlink(f)
-
