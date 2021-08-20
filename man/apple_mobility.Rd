@@ -12,11 +12,11 @@
 \description{
 
   Apple mobility data, downloaded from
-  \url{https://www.apple.com/covid19/mobility} on the 14 June 2020.
+  \url{https://www.apple.com/covid19/mobility} on the 18 August 2021.
 
   The following description has been taken from the Apple Mobility
   Trends Reports page:
-  
+
   The CSV file and charts on this site show a relative
   volume of directions requests per country/region, sub-region or city
   compared to a baseline volume on January 13th, 2020. We define our day
