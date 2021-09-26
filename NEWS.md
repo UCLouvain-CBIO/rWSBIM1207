@@ -1,5 +1,10 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.15
+
+- Add GSE96870 data, as prepared in bioconductor-teaching (see
+  ?GSE96870 for details).
+
 ## Changes in version 0.1.14
 
 - Update covid and apple mobility data. <2021-08-20 Fri>
