@@ -84,3 +84,13 @@ covid19_recovered.csv <- function()
 apple_mobility.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "applemobilitytrends-2021-08-18.csv")
+
+##' @export
+road_accidents_be_2022.rds <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "TF_ACCIDENTS_VICTIMS_2022.rds")
+
+##' @export
+road_accidents_be_meta.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "TF_ACCIDENTS_VICTIMS_META.csv")

@@ -1,0 +1,49 @@
+NAME,LABEL
+DT_DAY,Day
+DT_HOUR,Time of day
+CD_DAY_OF_WEEK,Day of week
+TX_DAY_OF_WEEK_DESCR_FR,Day of the month
+TX_DAY_OF_WEEK_DESCR_NL,Day of the month
+MS_VCT,Number of victims
+MS_VIC_OK,Number of uninjured
+MS_SLY_INJ,Number of slightly injured
+MS_SERLY_INJ,Number of severely injured
+MS_MORY_INJ,Number of mortally injured
+MS_DEAD,Number of dead
+MS_DEAD_30_DAYS,Number of dead 30 days
+CD_VCT_TYPE,Business key
+TX_VCT_TYPE_DESCR_NL,"Victime type (driver, passenger, other victime)"
+TX_VCT_TYPE_DESCR_FR,"Victime type (driver, passenger, other victime)"
+CD_ROAD_USR_TYPE,Business key
+TX_ROAD_USR_TYPE_DESCR_NL,Road user type
+TX_ROAD_USR_TYPE_DESCR_FR,Road user type
+CD_ROAD_TYPE,Business key
+TX_ROAD_TYPE_DESCR_NL,Road type
+TX_ROAD_TYPE_DESCR_FR,Road type
+CD_LIGHT_COND,Business key
+TX_LIGHT_COND_DESCR_NL,Light conditions
+TX_LIGHT_COND_DESCR_FR,Light conditions
+CD_COLL_TYPE,Business key
+TX_COLL_TYPE_DESCR_NL,Collision type
+TX_COLL_TYPE_DESCR_FR,Collision type
+CD_BUILD_UP_AREA,Business key
+TX_BUILD_UP_AREA_DESCR_NL,Build up area
+TX_BUILD_UP_AREA_DESCR_FR,Build up area
+CD_AGE_CLS,Business key
+TX_AGE_CLS_DESCR_NL,Age class
+TX_AGE_CLS_DESCR_FR,Age class
+CD_MUNTY_REFNIS,REFNIS code of the municipality
+TX_MUNTY_DESCR_NL,Municipality name in Dutch
+TX_MUNTY_DESCR_FR,Municipality name in French
+CD_DSTR_REFNIS,REFNIS code of the district
+TX_ADM_DSTR_DESCR_NL,Administrative district name in Dutch
+TX_ADM_DSTR_DESCR_FR,Administrative district name in French
+CD_PROV_REFNIS,REFNIS code of the province
+TX_PROV_DESCR_NL,Province name in Dutch
+TX_PROV_DESCR_FR,Province name in French
+CD_RGN_REFNIS,REFNIS code of the region
+TX_RGN_DESCR_NL,Region name in Dutch
+TX_RGN_DESCR_FR,Region name in French
+CD_SEX,Business key
+TX_SEX_DESCR_NL,Sex
+TX_SEX_DESCR_FR,Sex
