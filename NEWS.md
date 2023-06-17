@@ -1,5 +1,9 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.16
+
+- Add road accident data (from statbel.fgov.be).
+
 ## Changes in version 0.1.15
 
 - Add GSE96870 data, as prepared in bioconductor-teaching (see
