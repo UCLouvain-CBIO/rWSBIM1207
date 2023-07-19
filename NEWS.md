@@ -1,5 +1,9 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.17
+
+- Add population data
+
 ## Changes in version 0.1.16
 
 - Add road accident data (from statbel.fgov.be).

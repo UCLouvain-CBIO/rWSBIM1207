@@ -94,3 +94,9 @@ road_accidents_be_2022.rds <- function()
 road_accidents_be_meta.csv <- function()
     dir(system.file("extdata", package = "rWSBIM1207"),
         full.names = TRUE, pattern = "TF_ACCIDENTS_VICTIMS_META.csv")
+
+
+##' @export
+population_be.csv <- function()
+    dir(system.file("extdata", package = "rWSBIM1207"),
+        full.names = TRUE, pattern = "population_BE_")
