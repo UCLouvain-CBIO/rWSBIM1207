@@ -2,6 +2,7 @@
 % Please edit documentation in R/wsbim1207.R
 \docType{package}
 \name{rWSBIM1207}
+\alias{rWSBIM1207-package}
 \alias{rWSBIM1207}
 \alias{rWSBIM1207version}
 \title{rWSBIM1207: Companion package for WSBIM1207 course}
@@ -29,4 +30,8 @@ for further details.
 \examples{
 ## check the package version that is currently installed
 rWSBIM1207version()
+}
+\author{
+\strong{Maintainer}: Laurent Gatto \email{laurent.gatto@uclouvain.be} (\href{https://orcid.org/0000-0002-1520-2268}{ORCID})
+
 }

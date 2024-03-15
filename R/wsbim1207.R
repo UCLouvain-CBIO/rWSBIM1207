@@ -16,10 +16,9 @@
 #'
 #' @importFrom utils packageVersion
 #' @import dplyr tibble
-#' @docType package
 #' @md
 #' @name rWSBIM1207
-NULL
+"_PACKAGE"
 
 #' @export
 #' @name rWSBIM1207

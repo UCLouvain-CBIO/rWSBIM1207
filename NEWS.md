@@ -1,5 +1,9 @@
 # rWSBIM1207 0.1
 
+## Changes in version 0.1.18
+
+- Add TidyTuesday's Enlgish education data and Valentine's data.
+
 ## Changes in version 0.1.17
 
 - Add population data
