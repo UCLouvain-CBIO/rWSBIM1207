@@ -33,8 +33,8 @@
 ##'
 ##' @examples
 ##'
-##' valentines()
-valentines <- function()
+##' valentine()
+valentine <- function()
     c(historical_spending = 'https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2024/2024-02-13/historical_spending.csv',
       gifts_age = 'https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2024/2024-02-13/gifts_age.csv',
       gifts_gender = 'https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2024/2024-02-13/gifts_gender.csv')
