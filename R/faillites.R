@@ -2,7 +2,7 @@
 ##'
 ##' @description
 ##'
-##' Ce jeu de données reprednt l'évolution mensuelle des faillites par
+##' Ce jeu de données reperdent l'évolution mensuelle des faillites par
 ##' NACE - 15 jours de 2005 à 2023, telles que distribuées par
 ##' statbel, l'office belge de statistique.
 ##'
