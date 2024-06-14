@@ -29,14 +29,16 @@ x <- do.call(rbind,
              }))
 x <- x[sample(nrow(x)), ]
 all.equal(table(x$CD_EMPLOYMENT_CLASS), n_keep)
-write_delim(x, file = f, delim = "|")
+write_delim(x, file = "TF_BANKRUPTCIES_subset.txt", delim = "|")
 
-zip(f, "../extdata/TF_BANKRUPTCIES_subset.txt.zip")
+zip("TF_BANKRUPTCIES_subset.txt.zip", "TF_BANKRUPTCIES_subset.txt")
+unlink("TF_BANKRUPTCIES_subset.txt")
 
+file.rename("TF_BANKRUPTCIES_subset.txt.zip",
+            "../extdata/TF_BANKRUPTCIES_subset.txt.zip")
 
 ###################################################
 ## Load data
 
-x <- read_delim("../extdata/TF_BANKRUPTCIES_subset.txt.zip", delim = "|")
-x <- x |>
-    mutate(time = ym(paste(CD_YEAR, CD_MONTH, sep = "-")))
+x2 <- read_delim("../extdata/TF_BANKRUPTCIES_subset.txt.zip", delim = "|") |>
+    mutate(time = dmy(CD_WEEK_START))
